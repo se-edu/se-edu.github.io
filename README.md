@@ -12,3 +12,4 @@ These are some of the sub projects (come with code, learning outcomes, exercises
   * [Level 4](../../../addressbook-level4) [6 KLoC] : Better GUI and more features
   * Levels 5, 6, ... (Coming soon)
 * [**RCS** (Revision Control Software)](../../../rcs) : A repo for students to learn the basics of Git and GitHub
+* [**Collate**](../../../collate) : A tool for extracting code written by each team member of a team project
