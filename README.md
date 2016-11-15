@@ -5,7 +5,7 @@ In particular, it aims to provide sample code bases that are bigger in size and 
 ## Sub Projects
 These are some of the sub projects (come with code, learning outcomes, exercises, etc.) 
 
-### AddressBook 
+### Project: AddressBook 
 A series of Java projects with increasing size and complexity, to be used as examples (or starter projects) in SE couress.
   * [**Level 1**](../../../addressbook-level1) [1 KLoC] : Non-OOP, No GUI (Command Line Interface)
   * [**Level 2**](../../../addressbook-level2) [2 KLoC] : OOP, No GUI (Command Line Interface)
@@ -17,11 +17,11 @@ A series of Java projects with increasing size and complexity, to be used as exa
     
   * **Levels 5, 6, ...** (Coming soon)
   
-### [RCS (Revision Control Software)](../../../rcs) 
-A repo for students to learn the basics of Git and GitHub
+### Project: RCS (Revision Control Software) 
+A repo for students to learn the basics of Git and GitHub. [link to repo](../../../rcs)
 
-### [Collate](../../../collate) 
-A tool for extracting code written by each team member of a team project.<br>
+### Project: Collate
+A tool for extracting code written by each team member of a team project. [link to repo](../../../collate)<br>
 <img src="../../../collate/raw/master/docs/images/collate-overview.gif" >
 
 ## Contact 
