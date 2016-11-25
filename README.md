@@ -6,7 +6,7 @@ In particular, it aims to provide sample code bases that are bigger in size and 
 These are some of the sub projects (come with code, learning outcomes, exercises, etc.) 
 
 ### Project: AddressBook 
-A series of Java projects with increasing size and complexity, to be used as examples (or starter projects) in SE couress.
+A series of Java projects with increasing size and complexity, to be used as examples (or starter projects) in SE courses.
   * [**Level 1**](../../../addressbook-level1) [1 KLoC] : Non-OOP, No GUI (Command Line Interface)
   * [**Level 2**](../../../addressbook-level2) [2 KLoC] : OOP, No GUI (Command Line Interface)
   * [**Level 3**](../../../addressbook-level3) [3 KLoC] : Simple GUI with text input and output<br><br>
