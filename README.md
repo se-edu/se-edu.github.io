@@ -24,6 +24,9 @@ A series of Java projects with increasing size and complexity, to be used as exa
 ### Project: RCS (Revision Control Software) 
 A repo for students to learn the basics of Git and GitHub. {[link to repo](../../../rcs)}
 
+### Project: UML 
+{Planned for future} A repo for students to learn various UML diagrams. 
+
 ### Project: Collate
 A tool for extracting code written by each team member of a team project. {[link to repo](../../../collate)}
 
