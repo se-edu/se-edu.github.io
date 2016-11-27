@@ -3,6 +3,7 @@ This GitHub organization is a collection of **FOSS** resources for Software Engi
 In particular, it aims to provide sample code bases that are bigger in size and non-trivial in complexity.
 
 * [Sub Projects](#sub-projects)
+* [Contributing Code](#contributing-code)
 * [Contact](#contact)
 
 ## Sub Projects
@@ -27,6 +28,15 @@ A repo for students to learn the basics of Git and GitHub. {[link to repo](../..
 A tool for extracting code written by each team member of a team project. {[link to repo](../../../collate)}
 
 <img src="../../../collate/raw/master/docs/images/collate-overview.gif" >
+
+## Contributing Code
+We welcome code/content contributions and suggestions from students, instructors, and developers.
+
+* **Bug reports, Suggestions** : If you noticed bugs or have suggestions on how to improve,
+  Post in our [main issue tracker](https://github.com/se-edu/main/issues) or in the issue tracker of the respective repo.
+* **Contributing** : Look for an issue to fix in the issue tracker of the repo you are interested in. 
+  Issues marked `d.Contributors` are especially suitable for contributors. When submitting PRs, 
+  follow the process described [here](https://github.com/oss-generic/process). 
 
 ## Contact 
 To get in touch with us, post an issue [here](../../issues) or email us at `seer [at] comp.nus.edu.sg`
