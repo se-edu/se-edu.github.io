@@ -3,6 +3,7 @@ This GitHub organization is a collection of **FOSS** resources for Software Engi
 In particular, it aims to provide sample code bases that are bigger in size and non-trivial in complexity.
 
 * [Sub Projects](#sub-projects)
+* [Sister Projects](#sister-projects)
 * [Contributing Code](#contributing-code)
 * [Contact](#contact)
 
@@ -31,6 +32,20 @@ A repo for students to learn the basics of Git and GitHub. {[link to repo](../..
 A tool for extracting code written by each team member of a team project. {[link to repo](../../../collate)}
 
 <img src="../../../collate/raw/master/docs/images/collate-overview.gif" >
+
+## Sister Projects
+Here are some other highly-related FOSS projects that are not part of SE-EDU but are run side-by-side by the same folks.
+
+* **TEAMMATES** : [[Product](https://teammatesv4.appspot.com)][[Project](https://github.com/teammates/teammates)] : 
+  An online peer feedback management system for education. 
+  Used by over 100,000 students and teachers.
+* **PowerPointLabs** : 
+  [[Product](http://PowerPointLabs.info)][[Project](https://github.com/powerpointlabs/powerpointlabs)] 
+  : A productivity tool for Microsoft PowerPoint, especially suitable for students and teachers.
+  
+* [**OSS-GENERIC/process**](https://github.com/oss-generic/process): A reference process for OSS projects on GitHub. 
+  Includes coding standards.
+
 
 ## Contributing Code
 We welcome code/content contributions and suggestions from students, instructors, and developers.
