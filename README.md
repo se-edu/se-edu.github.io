@@ -1,4 +1,3 @@
-# SE-EDU : Resources for Software Engineering Education
 This GitHub organization is a collection of **FOSS** resources for Software Engineering educators and students. 
 In particular, it aims to provide sample code bases that are bigger in size and non-trivial in complexity.
 
