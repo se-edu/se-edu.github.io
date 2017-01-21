@@ -38,18 +38,16 @@ Here are some other highly-related FOSS projects that are not part of SE-EDU but
   [[Product](http://PowerPointLabs.info)][[Project](https://github.com/powerpointlabs/powerpointlabs)] 
   : A productivity tool for Microsoft PowerPoint, especially suitable for students and teachers.
   
-* [**OSS-GENERIC/process**](https://github.com/oss-generic/process): A reference process for OSS projects on GitHub. 
-  Includes coding standards.
+* [**OSS-GENERIC/process**](https://github.com/oss-generic/process): A reference process for SE-EDU projects 
+  and sister projects. Includes coding standards.
 
 
-## Contributing Code
-We welcome code/content contributions and suggestions from students, instructors, and developers.
+## Contributing
+We welcome code/content contributions and suggestions from students, instructors, and developers. 
 
 * **Bug reports, Suggestions** : If you noticed bugs or have suggestions on how to improve,
   Post in our [main issue tracker](https://github.com/se-edu/main/issues) or in the issue tracker of the respective repo.
-* **Contributing** : Look for an issue to fix in the issue tracker of the repo you are interested in. 
-  Issues marked `d.Contributors` are especially suitable for contributors. When submitting PRs, 
-  follow the process described [here](https://github.com/oss-generic/process). 
+* **Contributing code** : Refer [OSS-GENERIC/process](https://github.com/oss-generic/process) for more info on how to proceed.
 
 ## Contact 
 To get in touch with us, post an issue [here](https://github.com/se-edu/main/issues) or email us at `seer [at] comp.nus.edu.sg`
