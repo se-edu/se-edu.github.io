@@ -43,6 +43,9 @@ Here are some other highly-related FOSS projects that are not part of SE-EDU but
 
 
 ## Contributing
+
+Our **project team** and the **list of contributors** are [here](docs/Team.md).
+
 We welcome code/content contributions and suggestions from students, instructors, and developers. 
 
 * **Bug reports, Suggestions** : If you noticed bugs or have suggestions on how to improve,
