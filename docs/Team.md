@@ -2,6 +2,8 @@
 
 We are a team based in the [School of Computing, National University of Singapore](http://www.comp.nus.edu.sg).
 
+# Core Team
+
 #### [Damith C. Rajapakse](http://www.comp.nus.edu.sg/~damithch) <br>
 <img src="images/DamithRajapakse.jpg" width="150"><br>
 **Role**: Project Advisor
@@ -41,10 +43,34 @@ Responsibilities: Dev Ops
  Responsibilities: UI
 
  -----
+ 
+# Committers
 
+#### [Chua Ka Yi Ong](http://github.com/kychua)
+<img src="images/KaYi.jpg" width="150">
+
+ -----
+
+#### [Goh Yi Da Jeremy](http://github.com/MightyCupcakes)
+<img src="images/JeremyGoh.png" width="150">
+
+ -----
+
+#### [Huang Chao](http://github.com/chao1995)
+<img src="images/HuangChao.png" width="150">
+
+ -----
+
+#### [Pierce Anderson Fu](http://github.com/PierceAndy)
+<img src="images/PierceAndersonFu.png" width="150">
+
+ -----
+
+#### [Tan Wang Leng](https://yamgent.github.io/)
+<img src="images/TanWangLeng.png" width="150">
+
+ -----
 # Contributors
-
-We welcome contributions. See [Contact Us](ContactUs.md) page for more info.
 
 * [Akshay Narayan](https://github.com/se-edu/addressbook-level4/pulls?q=is%3Apr+author%3Aokkhoy)
 * [Sam Yong](https://github.com/se-edu/addressbook-level4/pulls?q=is%3Apr+author%3Amauris)
