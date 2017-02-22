@@ -31,6 +31,13 @@ Responsibilities: Dev Ops
 
 -----
 
+#### [Paul Tan Han Kiat](http://github.com/pyokagan)
+<img src="images/PaulTanHanKiat.png" width="150"><br>
+Role: Developer <br>
+Responsibilities: Code Quality
+
+-----
+
 #### [Thien Nguyen](https://github.com/ndt93)
  Role: Developer <br>
  Responsibilities: Threading
