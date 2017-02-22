@@ -84,5 +84,16 @@ Contributor [2016 Dec - 2017 Jan]
  -----
 # Contributors
 
-* [Akshay Narayan](https://github.com/se-edu/addressbook-level4/pulls?q=is%3Apr+author%3Aokkhoy)
-* [Sam Yong](https://github.com/se-edu/addressbook-level4/pulls?q=is%3Apr+author%3Amauris)
+1. [Akshay Narayan](https://github.com/se-edu/addressbook-level4/pulls?q=is%3Apr+author%3Aokkhoy)
+1. [Brandon Yeo](https://github.com/brandonyeoxg)
+1. [Chia Wei Kang](https://github.com/weikangchia)
+1. [Clarence Chee](https://github.com/cheec)
+1. [Desmond Ang](https://github.com/KnewYouWereTrouble)
+1. [Edmong Mok](https://github.com/edmundmok)
+1. [Eugene Peh](https://github.com/eugenepeh)
+1. [Joel Foo](https://github.com/jaeoheeail)
+1. [Lee Jia Yee](https://github.com/jia1)
+1. [Louie Tan](https://github.com/louietyj)
+1. [Sam Yong](https://github.com/se-edu/addressbook-level4/pulls?q=is%3Apr+author%3Amauris)
+1. [Song Zhiwen](https://github.com/zzzzwen)
+1. [Yong Zhi Yuan](https://github.com/Zhiyuan-Amos)
