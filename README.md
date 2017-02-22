@@ -41,10 +41,11 @@ Here are some other highly-related FOSS projects that are not part of SE-EDU but
 * [**OSS-GENERIC/process**](https://github.com/oss-generic/process): A reference process for SE-EDU projects 
   and sister projects. Includes coding standards.
 
-
-## Contributing
+## Project Team
 
 Our **project team** and the **list of contributors** are [here](docs/Team.md).
+
+## Contributing
 
 We welcome code/content contributions and suggestions from students, instructors, and developers. 
 
