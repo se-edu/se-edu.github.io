@@ -5,34 +5,34 @@ We are a team based in the [School of Computing, National University of Singapor
 # Core Team
 
 #### [Damith C. Rajapakse](http://www.comp.nus.edu.sg/~damithch) <br>
-<img src="images/DamithRajapakse.jpg" width="150"><br>
+<img src="images/DamithRajapakse.jpg" width="100"><br>
 **Role**: Project Advisor
 
 -----
 
 #### [Joshua Lee](http://github.com/lejolly)
-<img src="images/JoshuaLee.jpg" width="150"><br>
+<img src="images/JoshuaLee.jpg" width="100"><br>
 Role: Developer <br>
 Responsibilities: UI
 
 -----
 
 #### [Leow Yijin](http://github.com/yijinl)
-<img src="images/LeowYijin.jpg" width="150"><br>
+<img src="images/LeowYijin.jpg" width="100"><br>
 Role: Developer <br>
 Responsibilities: Data
 
 -----
 
 #### [Martin Choo](http://github.com/m133225)
-<img src="images/MartinChoo.jpg" width="150"><br>
+<img src="images/MartinChoo.jpg" width="100"><br>
 Role: Developer <br>
 Responsibilities: Dev Ops
 
 -----
 
 #### [Paul Tan Han Kiat](http://github.com/pyokagan)
-<img src="images/PaulTanHanKiat.png" width="150"><br>
+<img src="images/PaulTanHanKiat.png" width="100"><br>
 Role: Developer <br>
 Responsibilities: Code Quality
 
@@ -45,7 +45,7 @@ Responsibilities: Code Quality
  -----
 
 #### [You Liang](http://github.com/yl-coder)
-<img src="images/YouLiang.jpg" width="150"><br>
+<img src="images/YouLiang.jpg" width="100"><br>
  Role: Developer <br>
  Responsibilities: UI
 
@@ -54,27 +54,27 @@ Responsibilities: Code Quality
 # Committers
 
 #### [Chua Ka Yi Ong](http://github.com/kychua)
-<img src="images/KaYi.jpg" width="150">
+<img src="images/KaYi.jpg" width="100">
 
  -----
 
 #### [Goh Yi Da Jeremy](http://github.com/MightyCupcakes)
-<img src="images/JeremyGoh.png" width="150">
+<img src="images/JeremyGoh.png" width="100">
 
  -----
 
 #### [Huang Chao](http://github.com/chao1995)
-<img src="images/HuangChao.png" width="150">
+<img src="images/HuangChao.png" width="100">
 
  -----
 
 #### [Pierce Anderson Fu](http://github.com/PierceAndy)
-<img src="images/PierceAndersonFu.png" width="150">
+<img src="images/PierceAndersonFu.png" width="100">
 
  -----
 
 #### [Tan Wang Leng](https://yamgent.github.io/)
-<img src="images/TanWangLeng.png" width="150">
+<img src="images/TanWangLeng.png" width="100">
 
  -----
 # Contributors
