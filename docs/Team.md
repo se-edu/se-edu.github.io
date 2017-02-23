@@ -89,7 +89,7 @@ Contributor [2016 Dec - 2017 Jan]
 1. [Chia Wei Kang](https://github.com/weikangchia)
 1. [Clarence Chee](https://github.com/cheec)
 1. [Desmond Ang](https://github.com/KnewYouWereTrouble)
-1. [Edmong Mok](https://github.com/edmundmok)
+1. [Edmund Mok](https://github.com/edmundmok)
 1. [Eugene Peh](https://github.com/eugenepeh)
 1. [Joel Foo](https://github.com/jaeoheeail)
 1. [Lee Jia Yee](https://github.com/jia1)
