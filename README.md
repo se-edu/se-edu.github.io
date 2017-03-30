@@ -18,13 +18,13 @@ A series of Java projects with increasing size and complexity, to be used as exa
   * **Levels 5, 6, ...** (Coming soon)
   
 ### Project: RCS (Revision Control Software) 
-A repo for students to learn the basics of Git and GitHub. {[link to repo](../../../rcs)}
+A repo for students to learn the basics of Git and GitHub. {[link to repo](https://github.com/se-edu/rcs)}
 
 ### Project: UML 
 {Planned for future} A repo for students to learn various UML diagrams. 
 
 ### Project: Collate
-A tool for extracting code written by each team member of a team project. {[link to repo](../../../collate)}
+A tool for extracting code written by each team member of a team project. {[link to repo](https://github.com/se-edu/collate)}
 
 <img src="https://github.com/se-edu/collate/raw/master/docs/images/collate-overview.gif" >
 
