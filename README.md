@@ -47,11 +47,7 @@ Our **project team** and the **list of contributors** are [here](docs/Team.md).
 
 ## Contributing
 
-We welcome code/content contributions and suggestions from students, instructors, and developers. 
-
-* **Bug reports, Suggestions** : If you noticed bugs or have suggestions on how to improve,
-  Post in our [main issue tracker](https://github.com/se-edu/main/issues) or in the issue tracker of the respective repo.
-* **Contributing code** : Refer [OSS-GENERIC/process](https://github.com/oss-generic/process) for more info on how to proceed.
+We welcome code/content contributions and suggestions from students, instructors, and developers. Please kindly read through our [contributing guidelines](CONTRIBUTING.md) to get started.
 
 ## Contact 
 To get in touch with us, post an issue [here](https://github.com/se-edu/main/issues) or email us at `seer [at] comp.nus.edu.sg`
