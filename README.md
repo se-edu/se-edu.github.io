@@ -7,12 +7,12 @@ These are some of the sub projects (come with code, learning outcomes, exercises
 ### Project: AddressBook 
 A series of Java projects with increasing size and complexity, to be used as examples (or starter projects) in SE courses.
 
-  * [**Level 1**](https://github.com/se-edu/addressbook-level1) [1 KLoC] : Non-OOP, No GUI (Command Line Interface)
-  * [**Level 2**](https://github.com/se-edu/addressbook-level2) [2 KLoC] : OOP, No GUI (Command Line Interface)
-  * [**Level 3**](https://github.com/se-edu/addressbook-level3) [3 KLoC] : Simple GUI with text input and output<br><br>
+  * [**Level 1**](../../../addressbook-level1) [1 KLoC] : Non-OOP, No GUI (Command Line Interface)
+  * [**Level 2**](../../../addressbook-level2) [2 KLoC] : OOP, No GUI (Command Line Interface)
+  * [**Level 3**](../../../addressbook-level3) [3 KLoC] : Simple GUI with text input and output<br><br>
     <img src="https://github.com/se-edu/addressbook-level3/raw/master/doc/images/Ui.png" >
     
-  * [**Level 4**](https://github.com/se-edu/addressbook-level4) [6 KLoC] : Better GUI and more features<br><br>
+  * [**Level 4**](../../../addressbook-level4) [6 KLoC] : Better GUI and more features<br><br>
     <img src="https://github.com/se-edu/addressbook-level4/raw/master/docs/images/Ui.png" >
     
   * **Levels 5, 6, ...** (Coming soon)
