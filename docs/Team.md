@@ -85,7 +85,13 @@ Contributor [2016 Dec - 2017 Jan]
 Committer [2017 Jan - ]<br>
 Contributor [2016 Dec - 2017 Jan]
 
- -----
+-----
+
+#### [Lim Miao Ling](https://github.com/limmlingg)
+<img src="images/LimMiaoLing.jpg" width="100"><br>
+Committer [2017 May - ]
+
+-----
 
 #### [Pierce Anderson Fu](http://github.com/PierceAndy)
 <img src="images/PierceAndersonFu.png" width="100"><br>
