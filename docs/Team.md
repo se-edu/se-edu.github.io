@@ -10,6 +10,13 @@ We are a team based in the [School of Computing, National University of Singapor
 
 -----
 
+#### [Paul Tan Han Kiat](http://github.com/pyokagan)
+<img src="images/PaulTanHanKiat.png" width="100"><br>
+**Role**: Project Mentor<br>
+Area Lead for: Code Quality [2016 Dec - ]
+
+-----
+
 #### [Joshua Lee](http://github.com/lejolly)
 <img src="images/JoshuaLee.jpg" width="100"><br>
 Area Lead for: UI [2016 Aug - ]
@@ -25,12 +32,6 @@ Area Lead for: Model [2016 May - ]
 #### [Martin Choo](http://github.com/m133225)
 <img src="images/MartinChoo.jpg" width="100"><br>
 Area Lead for: Dev Ops [2016 May - ]
-
------
-
-#### [Paul Tan Han Kiat](http://github.com/pyokagan)
-<img src="images/PaulTanHanKiat.png" width="100"><br>
-Area Lead for: Code Quality [2016 Dec - ]
 
 -----
 
