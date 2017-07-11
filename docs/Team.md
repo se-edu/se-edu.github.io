@@ -25,6 +25,14 @@ Area Lead for: Code Quality [2016 Dec - ]
 
 -----
 
+#### [Tan Wang Leng](https://yamgent.github.io/)
+<img src="images/TanWangLeng.png" width="100"><br>
+**Role**: Project Lead<br>
+Committer [2017 Jan - ]<br>
+Contributor [2016 Dec - 2017 Jan]
+
+-----
+
 #### [Joshua Lee](http://github.com/lejolly)
 <img src="images/JoshuaLee.jpg" width="100"><br>
 Area Lead for: UI [2016 Aug - ]
@@ -73,13 +81,6 @@ Contributor [2016 Dec - 2017 Jan]
 
 #### [Pierce Anderson Fu](http://github.com/PierceAndy)
 <img src="images/PierceAndersonFu.png" width="100"><br>
-Committer [2017 Jan - ]<br>
-Contributor [2016 Dec - 2017 Jan]
-
- -----
-
-#### [Tan Wang Leng](https://yamgent.github.io/)
-<img src="images/TanWangLeng.png" width="100"><br>
 Committer [2017 Jan - ]<br>
 Contributor [2016 Dec - 2017 Jan]
 
