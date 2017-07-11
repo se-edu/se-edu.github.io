@@ -10,6 +10,14 @@ We are a team based in the [School of Computing, National University of Singapor
 
 -----
 
+#### [Huang Chao](http://github.com/chao1995)
+<img src="images/HuangChao.png" width="100"><br>
+**Role**: Project Mentor<br>
+Committer [2017 Jan - ]<br>
+Contributor [2016 Dec - 2017 Jan]
+
+-----
+
 #### [Paul Tan Han Kiat](http://github.com/pyokagan)
 <img src="images/PaulTanHanKiat.png" width="100"><br>
 **Role**: Project Mentor<br>
@@ -58,13 +66,6 @@ Contributor [2016 Dec - 2017 Jan]
 
 #### [Goh Yi Da Jeremy](http://github.com/MightyCupcakes)
 <img src="images/JeremyGoh.png" width="100"><br>
-Committer [2017 Jan - ]<br>
-Contributor [2016 Dec - 2017 Jan]
-
- -----
-
-#### [Huang Chao](http://github.com/chao1995)
-<img src="images/HuangChao.png" width="100"><br>
 Committer [2017 Jan - ]<br>
 Contributor [2016 Dec - 2017 Jan]
 
