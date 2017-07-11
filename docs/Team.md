@@ -54,7 +54,15 @@ Area Lead for: Dev Ops [2016 May - ]
 #### [Thien Nguyen](https://github.com/ndt93)
 Area Lead for: Threading [2016 Aug - ]
 
- -----
+-----
+
+#### [Yong Zhi Yuan](https://github.com/Zhiyuan-Amos)
+<img src="images/YongZhiYuan.png" width="100"><br>
+Area Lead for: Logic [2017 Aug - ]<br>
+Committer [2017 May - ]<br>
+Contributor [2016 Dec - 2017 Apr]
+
+-----
 
 #### [You Liang](http://github.com/yl-coder)
 <img src="images/YouLiang.jpg" width="100"><br>
@@ -99,4 +107,3 @@ Contributor [2016 Dec - 2017 Jan]
 1. [Louie Tan](https://github.com/louietyj)
 1. [Sam Yong](https://github.com/se-edu/addressbook-level4/pulls?q=is%3Apr+author%3Amauris)
 1. [Song Zhiwen](https://github.com/zzzzwen)
-1. [Yong Zhi Yuan](https://github.com/Zhiyuan-Amos)
