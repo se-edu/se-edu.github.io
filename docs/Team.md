@@ -33,29 +33,6 @@ Contributor [2016 Dec - 2017 Jan]
 
 -----
 
-#### [Joshua Lee](http://github.com/lejolly)
-<img src="images/JoshuaLee.jpg" width="100"><br>
-Area Lead for: UI [2016 Aug - ]
-
------
-
-#### [Leow Yijin](http://github.com/yijinl)
-<img src="images/LeowYijin.jpg" width="100"><br>
-Area Lead for: Model [2016 May - ]
-
------
-
-#### [Martin Choo](http://github.com/m133225)
-<img src="images/MartinChoo.jpg" width="100"><br>
-Area Lead for: Dev Ops [2016 May - ]
-
------
-
-#### [Thien Nguyen](https://github.com/ndt93)
-Area Lead for: Threading [2016 Aug - ]
-
------
-
 #### [Yong Zhi Yuan](https://github.com/Zhiyuan-Amos)
 <img src="images/YongZhiYuan.png" width="100"><br>
 Area Lead for: Logic [2017 Aug - ]<br>
@@ -63,22 +40,8 @@ Committer [2017 May - ]<br>
 Contributor [2016 Dec - 2017 Apr]
 
 -----
-
-#### [You Liang](http://github.com/yl-coder)
-<img src="images/YouLiang.jpg" width="100"><br>
-Area Lead for: UI [2016 May - ]
-
- -----
  
 # Committers
-
-#### [Chua Ka Yi Ong](http://github.com/kychua)
-<img src="images/KaYi.jpg" width="100"><br>
-Committer [2017 Jan - ]<br>
-Contributor [2016 Dec - 2017 Jan]
-
-
- -----
 
 #### [Goh Yi Da Jeremy](http://github.com/MightyCupcakes)
 <img src="images/JeremyGoh.png" width="100"><br>
@@ -98,7 +61,46 @@ Committer [2017 May - ]
 Committer [2017 Jan - ]<br>
 Contributor [2016 Dec - 2017 Jan]
 
- -----
+-----
+
+# Past Members
+
+#### [Chua Ka Yi Ong](http://github.com/kychua)
+<img src="images/KaYi.jpg" width="100"><br>
+Committer [2017 Jan - 2017 May]<br>
+Contributor [2016 Dec - 2017 Jan]
+
+-----
+
+#### [Joshua Lee](http://github.com/lejolly)
+<img src="images/JoshuaLee.jpg" width="100"><br>
+Area Lead for: UI [2016 Aug - 2017 May]
+
+-----
+
+#### [Leow Yijin](http://github.com/yijinl)
+<img src="images/LeowYijin.jpg" width="100"><br>
+Area Lead for: Model [2016 May - 2017 May]
+
+-----
+
+#### [Martin Choo](http://github.com/m133225)
+<img src="images/MartinChoo.jpg" width="100"><br>
+Area Lead for: Dev Ops [2016 May - 2017 May]
+
+-----
+
+#### [Thien Nguyen](https://github.com/ndt93)
+Area Lead for: Threading [2016 Aug - 2017 May]
+
+-----
+
+#### [You Liang](http://github.com/yl-coder)
+<img src="images/YouLiang.jpg" width="100"><br>
+Area Lead for: UI [2016 May - 2017 May]
+
+-----
+ 
 # Contributors
 
 1. [Akshay Narayan](https://github.com/se-edu/addressbook-level4/pulls?q=is%3Apr+author%3Aokkhoy)
