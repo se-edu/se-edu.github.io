@@ -10,78 +10,97 @@ We are a team based in the [School of Computing, National University of Singapor
 
 -----
 
-#### [Joshua Lee](http://github.com/lejolly)
-<img src="images/JoshuaLee.jpg" width="100"><br>
-Area Lead for: UI [2016 Aug - ]
-
------
-
-#### [Leow Yijin](http://github.com/yijinl)
-<img src="images/LeowYijin.jpg" width="100"><br>
-Area Lead for: Model [2016 May - ]
-
------
-
-#### [Martin Choo](http://github.com/m133225)
-<img src="images/MartinChoo.jpg" width="100"><br>
-Area Lead for: Dev Ops [2016 May - ]
+#### [Huang Chao](http://github.com/chao1995)
+<img src="images/HuangChao.png" width="100"><br>
+**Role**: Project Mentor<br>
+Committer [2017 Jan - ]<br>
+Contributor [2016 Dec - 2017 Jan]
 
 -----
 
 #### [Paul Tan Han Kiat](http://github.com/pyokagan)
 <img src="images/PaulTanHanKiat.png" width="100"><br>
+**Role**: Project Mentor<br>
 Area Lead for: Code Quality [2016 Dec - ]
 
 -----
 
-#### [Thien Nguyen](https://github.com/ndt93)
-Area Lead for: Threading [2016 Aug - ]
-
- -----
-
-#### [You Liang](http://github.com/yl-coder)
-<img src="images/YouLiang.jpg" width="100"><br>
-Area Lead for: UI [2016 May - ]
-
- -----
- 
-# Committers
-
-#### [Chua Ka Yi Ong](http://github.com/kychua)
-<img src="images/KaYi.jpg" width="100"><br>
+#### [Tan Wang Leng](https://yamgent.github.io/)
+<img src="images/TanWangLeng.png" width="100"><br>
+**Role**: Project Lead<br>
 Committer [2017 Jan - ]<br>
 Contributor [2016 Dec - 2017 Jan]
 
+-----
 
- -----
+#### [Yong Zhi Yuan](https://github.com/Zhiyuan-Amos)
+<img src="images/YongZhiYuan.png" width="100"><br>
+Area Lead for: Logic [2017 Aug - ]<br>
+Committer [2017 May - ]<br>
+Contributor [2016 Dec - 2017 Apr]
+
+-----
+ 
+# Committers
 
 #### [Goh Yi Da Jeremy](http://github.com/MightyCupcakes)
 <img src="images/JeremyGoh.png" width="100"><br>
 Committer [2017 Jan - ]<br>
 Contributor [2016 Dec - 2017 Jan]
 
- -----
+-----
 
-#### [Huang Chao](http://github.com/chao1995)
-<img src="images/HuangChao.png" width="100"><br>
-Committer [2017 Jan - ]<br>
-Contributor [2016 Dec - 2017 Jan]
+#### [Lim Miao Ling](https://github.com/limmlingg)
+<img src="images/LimMiaoLing.jpg" width="100"><br>
+Committer [2017 May - ]
 
- -----
+-----
 
 #### [Pierce Anderson Fu](http://github.com/PierceAndy)
 <img src="images/PierceAndersonFu.png" width="100"><br>
 Committer [2017 Jan - ]<br>
 Contributor [2016 Dec - 2017 Jan]
 
- -----
+-----
 
-#### [Tan Wang Leng](https://yamgent.github.io/)
-<img src="images/TanWangLeng.png" width="100"><br>
-Committer [2017 Jan - ]<br>
+# Past Members
+
+#### [Chua Ka Yi Ong](http://github.com/kychua)
+<img src="images/KaYi.jpg" width="100"><br>
+Committer [2017 Jan - 2017 May]<br>
 Contributor [2016 Dec - 2017 Jan]
 
- -----
+-----
+
+#### [Joshua Lee](http://github.com/lejolly)
+<img src="images/JoshuaLee.jpg" width="100"><br>
+Area Lead for: UI [2016 Aug - 2017 May]
+
+-----
+
+#### [Leow Yijin](http://github.com/yijinl)
+<img src="images/LeowYijin.jpg" width="100"><br>
+Area Lead for: Model [2016 May - 2017 May]
+
+-----
+
+#### [Martin Choo](http://github.com/m133225)
+<img src="images/MartinChoo.jpg" width="100"><br>
+Area Lead for: Dev Ops [2016 May - 2017 May]
+
+-----
+
+#### [Thien Nguyen](https://github.com/ndt93)
+Area Lead for: Threading [2016 Aug - 2017 May]
+
+-----
+
+#### [You Liang](http://github.com/yl-coder)
+<img src="images/YouLiang.jpg" width="100"><br>
+Area Lead for: UI [2016 May - 2017 May]
+
+-----
+ 
 # Contributors
 
 1. [Akshay Narayan](https://github.com/se-edu/addressbook-level4/pulls?q=is%3Apr+author%3Aokkhoy)
@@ -96,4 +115,3 @@ Contributor [2016 Dec - 2017 Jan]
 1. [Louie Tan](https://github.com/louietyj)
 1. [Sam Yong](https://github.com/se-edu/addressbook-level4/pulls?q=is%3Apr+author%3Amauris)
 1. [Song Zhiwen](https://github.com/zzzzwen)
-1. [Yong Zhi Yuan](https://github.com/Zhiyuan-Amos)
