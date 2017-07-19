@@ -80,7 +80,8 @@ Area Lead for: UI [2016 Aug - 2017 May]
 
 #### [Leow Yijin](http://github.com/yijinl)
 <img src="images/LeowYijin.jpg" width="100"><br>
-Area Lead for: Model [2016 May - 2017 May]
+Area Lead for: Model [2016 May - 2017 May]<br>
+Main developer for the first version of AddressBook-Level1
 
 -----
 
@@ -110,6 +111,7 @@ Area Lead for: UI [2016 May - 2017 May]
 1. [Desmond Ang](https://github.com/KnewYouWereTrouble)
 1. [Edmund Mok](https://github.com/edmundmok)
 1. [Eugene Peh](https://github.com/eugenepeh)
+1. [Jeffry Hartanto](https://github.com/jeffryhartanto)
 1. [Joel Foo](https://github.com/jaeoheeail)
 1. [Lee Jia Yee](https://github.com/jia1)
 1. [Louie Tan](https://github.com/louietyj)
