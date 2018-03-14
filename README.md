@@ -16,12 +16,12 @@ A series of Java projects with increasing size and complexity, to be used as exa
     <img src="https://github.com/se-edu/addressbook-level4/raw/master/docs/images/Ui.png" >
     
   * **Levels 5, 6, ...** (Coming soon)
-  
-### Project: RCS (Revision Control Software) 
-A repo for students to learn the basics of Git and GitHub. {[link to repo](../../../rcs)}
 
-### Project: UML 
-{Planned for future} A repo for students to learn various UML diagrams. 
+### Book: Software Engineering for Self-Directed Learners 
+A book covering SE basics, available at [https://se-edu.github.io/se-book/](https://se-edu.github.io/se-book/). The repo is [here](https://github.com/se-edu/se-book)
+
+### Supplementary Learning Resources
+A collection of learning resources for SE students, available [here](https://github.com/se-edu/learningresources/blob/master/contents/ToC.md)
 
 ### Project: Collate
 A tool for extracting code written by each team member of a team project. {[link to repo](../../../collate)}
@@ -31,12 +31,12 @@ A tool for extracting code written by each team member of a team project. {[link
 ## Sister Projects
 Here are some other highly-related FOSS projects that are not part of SE-EDU but are run side-by-side by the same folks.
 
-* **TEAMMATES** : [[Product](https://teammatesv4.appspot.com)][[Project](https://github.com/teammates/teammates)] : 
+* **TEAMMATES** [[Product](https://teammatesv4.appspot.com)][[Project](https://github.com/teammates/teammates)] : 
   An online peer feedback management system for education. 
   Used by over 100,000 students and teachers.
-* **PowerPointLabs** : 
-  [[Product](http://PowerPointLabs.info)][[Project](https://github.com/powerpointlabs/powerpointlabs)] 
+* **PowerPointLabs** [[Product](http://PowerPointLabs.info)][[Project](https://github.com/powerpointlabs/powerpointlabs)] 
   : A productivity tool for Microsoft PowerPoint, especially suitable for students and teachers.
+* **MarkBind** [[Product](https://markbind.github.io/markbind/)][[Project](https://github.com/MarkBind/markbind-cli)]: A tool for generating educational websites from markdown source files.
   
 * [**OSS-GENERIC/process**](https://github.com/oss-generic/process): A reference process for SE-EDU projects 
   and sister projects. Includes coding standards.
