@@ -1,5 +1,6 @@
-This GitHub organization is a collection of **FOSS** resources for Software Engineering educators and students. 
-In particular, it aims to provide sample code bases that are bigger in size and non-trivial in complexity.
+<img src="docs/images/logo.png" width="800" />
+
+This GitHub organization is a collection of **FOSS** resources for Software Engineering educators and students. In particular, it aims to provide sample code bases that are bigger in size and non-trivial in complexity.
 
 ## Sub Projects
 These are some of the sub projects (come with code, learning outcomes, exercises, etc.) 
