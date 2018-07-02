@@ -3,5 +3,5 @@
 *.iml
 /out/
 .idea_modules/
-
-
+/.gradle/
+/build/
