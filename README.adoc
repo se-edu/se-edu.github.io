@@ -1,3 +1,5 @@
+ifdef::env-github,env-browser[:relfileprefix: docs/]
+
 This GitHub organization is a collection of *FOSS* resources for Software Engineering educators and students. In particular, it aims to provide sample code bases that are bigger in size and non-trivial in complexity.
 
 == Sub Projects
@@ -41,7 +43,7 @@ and sister projects. Includes coding standards.
 
 == Project Team
 
-Our *project team* and the *list of contributors* are link:docs/Team.md[here].
+Our *project team* and the *list of contributors* are <<Team#, here>>.
 
 == Contributing
 
