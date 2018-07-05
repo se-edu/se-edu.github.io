@@ -3,7 +3,7 @@
   #seedu-header
     nav.navbar.navbar-lg.navbar-light.bg-lighter
       .container
-        a.navbar-brand href='https://se-edu.github.io/'
+        a.navbar-brand href=(site_url 'index.html')
           img src=(site_url 'images/SeEduLogo.png') alt='SE-EDU'
         ul.navbar-nav
           li.nav-item
@@ -13,7 +13,7 @@
           li.nav-item
             a.nav-link href='https://se-edu.github.io/addressbook-level3' AB-3
           li.nav-item
-            a.nav-link.active href=(site_url 'index.html') AB-4
+            a.nav-link href='https://se-edu.github.io/addressbook-level4' AB-4
           li.nav-item
             a.nav-link href='https://se-edu.github.io/collate' Collate
           li.nav-item
@@ -29,16 +29,9 @@
             a.navbar-brand href=(site_url 'index.html') =(attr 'site-name')
         ul.navbar-nav
           li.nav-item
-            =nav_link('UserGuide', 'UserGuide.html', 'User Guide')
+            =nav_link('Home', 'index.html', 'Home')
           li.nav-item
-            =nav_link('DeveloperGuide', 'DeveloperGuide.html', 'Developer Guide')
-          - if attr? 'site-seedu'
-            li.nav-item
-              =nav_link('LearningOutcomes', 'LearningOutcomes.html', 'LOs')
-          li.nav-item
-            =nav_link('AboutUs', 'AboutUs.html', 'About Us')
-          li.nav-item
-            =nav_link('ContactUs', 'ContactUs.html', 'Contact Us')
+            =nav_link('Team', 'Team.html', 'Team')
           - if attr? 'site-githuburl'
             li.navitem
               a.nav-link href=(attr 'site-githuburl')
