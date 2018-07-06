@@ -150,7 +150,7 @@ Contributor [2016 Dec - 2017 Jan]
 
 === https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Asebastianquek[Sebastian Kwek]
 
-Wrote the initial version of link:se-edu/collate[the Collate tool] [2015 Jun - 2015 Sep]
+Wrote the initial version of https://se-edu.github.io/collate[the Collate tool] [2015 Jun - 2015 Sep]
 
 '''''
 
