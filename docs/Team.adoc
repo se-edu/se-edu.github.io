@@ -19,8 +19,8 @@ image::DamithRajapakse.jpg[width=100]
 
 image::PaulTanHanKiat.png[width=100]
 
-*Role*: Mentor [2018 Jan - ]
-Area Lead for Code Quality [2017 Aug - 2017 Dec]
+*Role*: Mentor [2018 Jan - ] +
+Area Lead for Code Quality [2017 Aug - 2017 Dec] +
 Committer [2016 Dec - 2017 Jul]
 
 '''''
@@ -29,9 +29,9 @@ Committer [2016 Dec - 2017 Jul]
 
 image::TanWangLeng.png[width=100]
 
-*Role*: Mentor [2018 Apr - ]
-Project Lead [2017 Aug - 2018 Apr]
-Committer [2017 Jan - 2017 Aug]
+*Role*: Mentor [2018 Apr - ] +
+Project Lead [2017 Aug - 2018 Apr] +
+Committer [2017 Jan - 2017 Aug] +
 Contributor [2016 Dec - 2017 Jan]
 
 '''''
@@ -40,38 +40,38 @@ Contributor [2016 Dec - 2017 Jan]
 
 image::YongZhiYuan.png[width=100]
 
-Project Lead: [2018 Apr - ]
-Area Lead for Logic [2017 Aug - 2018 - Apr]
-Committer [2017 May - 2017 Aug]
+Project Lead: [2018 Apr - ] +
+Area Lead for Logic [2017 Aug - 2018 - Apr] +
+Committer [2017 May - 2017 Aug] +
 Contributor [2016 Dec - 2017 Apr]
 
 '''''
 
 === https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Aeugenepeh[Eugene Peh]
 
-*Role*: Mentor [2018 Jan - ]
-Committer [2017 Aug - 2017 Dec]
+*Role*: Mentor [2018 Jan - ] +
+Committer [2017 Aug - 2017 Dec] +
 Contributor [2017 Feb - 2017 Jul]
 
 '''''
 
 === https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3ARinder5[Koh Lewis]
 
-Committer: [2018 Mar - ]
+Committer: [2018 Mar - ] +
 Contributor: [2018 Jan - 2018 Feb]
 
 '''''
 
 === https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Ayamidark[Tan Jun An]
 
-Committer: [2018 Mar - ]
+Committer: [2018 Mar - ] +
 Contributor: [2018 Jan - 2018 Feb]
 
 '''''
 
 === https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Avivekscl[Vivek Lakshmanan]
 
-Committer: [2018 Mar - ]
+Committer: [2018 Mar - ] +
 Contributor: [2018 Jan - 2018 Feb]
 
 == Past Members
@@ -82,7 +82,7 @@ Contributor: [2018 Jan - 2018 Feb]
 
 image::KaYi.jpg[width=100]
 
-Committer [2017 Jan - 2017 May]
+Committer [2017 Jan - 2017 May] +
 Contributor [2016 Dec - 2017 Jan]
 
 '''''
@@ -91,7 +91,7 @@ Contributor [2016 Dec - 2017 Jan]
 
 image::JeremyGoh.png[width=100]
 
-Committer [2017 Jan - 2017 Apr]
+Committer [2017 Jan - 2017 Apr] +
 Contributor [2016 Dec - 2017 Jan]
 
 '''''
@@ -100,8 +100,8 @@ Contributor [2016 Dec - 2017 Jan]
 
 image::HuangChao.png[width=100]
 
-Project Mentor [2017 Arp - 2017 Dec]
-Committer [2017 Jan - 2017 Apr]
+Project Mentor [2017 Arp - 2017 Dec] +
+Committer [2017 Jan - 2017 Apr] +
 Contributor [2016 Dec - 2017 Jan]
 
 '''''
@@ -118,7 +118,7 @@ Area Lead for: UI [2016 Aug - 2017 May]
 
 image::LeowYijin.jpg[width=100]
 
-Area Lead for: Model [2016 May - 2017 May]
+Area Lead for: Model [2016 May - 2017 May] +
 Main developer for the first version of AddressBook-Level1
 
 '''''
@@ -143,7 +143,7 @@ Area Lead for: Dev Ops [2016 May - 2017 May]
 
 image::PierceAndersonFu.png[width=100]
 
-Committer [2017 Jan - 2017 Apr]
+Committer [2017 Jan - 2017 Apr] +
 Contributor [2016 Dec - 2017 Jan]
 
 '''''
