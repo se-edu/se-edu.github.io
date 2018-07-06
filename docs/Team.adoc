@@ -1,4 +1,5 @@
 = SE-EDU Project Team
+:site-section: Team
 :imagesDir: images
 :stylesDir: stylesheets
 
