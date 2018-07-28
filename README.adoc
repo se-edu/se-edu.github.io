@@ -26,7 +26,7 @@ A book covering SE basics, available at https://se-edu.github.io/se-book/. The r
 
 === Supplementary Learning Resources
 
-A collection of learning resources for SE students, available https://github.com/se-edu/learningresources/blob/master/contents/ToC.md[here]
+A collection of learning resources for SE students, available https://se-edu.github.io/learningresources/[here].
 
 === Project: Collate
 
