@@ -5,6 +5,8 @@
 
 We are a team based in the http://www.comp.nus.edu.sg[School of Computing, National University of Singapore].
 
+Other repositories such as https://github.com/se-edu/collate[Collate] and https://github.com/se-edu/learningresources[Learning Resources] manages their own list of contributors.
+
 == Current Team
 
 === http://www.comp.nus.edu.sg/~damithch[Damith C. Rajapakse]
@@ -174,12 +176,27 @@ Area Lead for: UI [2016 May - 2017 May]
 . https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Abrandonyeoxg[Brandon Yeo]
 . https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Aweikangchia[Chia Wei Kang]
 . https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Acheec[Clarence Chee]
+. https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3A500poundbear[Derek]
 . https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3AKnewYouWereTrouble[Desmond Ang]
+. https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3ANeurrone[Dickson Tan]
 . https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Aedmundmok[Edmund Mok]
+. https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Aeugenepeh[Eugene Peh]
 . https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Amadsonic[Gerald Ng]
+. https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Adonjar[Herbert Ilhan Tanujaya]
 . https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Ajeffryhartanto[Jeffry Hartanto]
+. https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Ajoanneong[Joanne Ong]
 . https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Ajaeoheeail[Joel Foo]
+. https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Aluyangkenneth[Kenneth Lu]
+. https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Adezhanglee[Lee De Zhang]
 . https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Ajia1[Lee Jia Yee]
+. https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3ALiXiaoooowei[Li Xiao Wei]
+. https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3ACrsytral[Lim Shun Xian]
 . https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Alouietyj[Louie Tan]
+. https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Anicholaschuayunzhi[Nicholas Chua]
 . https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Amauris[Sam Yong]
+. https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Atshradheya[Shradheya Thakre]
 . https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Azzzzwen[Song Zhiwen]
+. https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Athenaesh[Thenaesh Elango]
+. https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Alinhany[Yong Lin Han]
+. https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3AZhangYiJiang[Zhang Yi Jiang]
+. https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3AVeryLazyBoy[Zi Yang]
