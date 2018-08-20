@@ -5,7 +5,9 @@
 
 We are a team based in the http://www.comp.nus.edu.sg[School of Computing, National University of Singapore].
 
-== Current Team
+== Addressbook Level 1-4
+
+=== Current Team
 
 === http://www.comp.nus.edu.sg/~damithch[Damith C. Rajapakse]
 
@@ -74,7 +76,7 @@ Contributor: [2018 Jan - 2018 Feb]
 Committer: [2018 Mar - ] +
 Contributor: [2018 Jan - 2018 Feb]
 
-== Past Members
+=== Past Members
 
 '''''
 
@@ -148,12 +150,6 @@ Contributor [2016 Dec - 2017 Jan]
 
 '''''
 
-=== https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Asebastianquek[Sebastian Kwek]
-
-Wrote the initial version of https://se-edu.github.io/collate[the Collate tool] [2015 Jun - 2015 Sep]
-
-'''''
-
 === https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Andt93[Thien Nguyen]
 
 Area Lead for: Threading [2016 Aug - 2017 May]
@@ -168,7 +164,7 @@ Area Lead for: UI [2016 May - 2017 May]
 
 '''''
 
-== Contributors
+=== Contributors
 
 . https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Aokkhoy[Akshay Narayan]
 . https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Aapoorva17[Apoorva]
@@ -198,3 +194,21 @@ Area Lead for: UI [2016 May - 2017 May]
 . https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Alinhany[Yong Lin Han]
 . https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3AZhangYiJiang[Zhang Yi Jiang]
 . https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3AVeryLazyBoy[Zi Yang]
+
+== Collate
+
+=== https://github.com/issues?utf8=✓&q=org%3Ase-edu+involves%3Asebastianquek[Sebastian Kwek]
+
+Wrote the initial version of https://se-edu.github.io/collate[the Collate tool] [2015 Jun - 2015 Sep]
+
+'''''
+
+=== Contributors
+
+. https://github.com/issues?utf8=%E2%9C%93&q=repo%3Ase-edu%2Fcollate+involves%3Amadsonic[Gerald]
+. https://github.com/issues?utf8=%E2%9C%93&q=repo%3Ase-edu%2Fcollate+involves%3Ayamgent[Tan Wang Leng]
+. https://github.com/issues?utf8=%E2%9C%93&q=repo%3Ase-edu%2Fcollate+involves%3Ariwu[Wang Riwu]
+
+== Other Projects
+
+Other projects such as https://github.com/se-edu/learningresources/graphs/contributors[Learning Resources] manages their own list of contributors.
