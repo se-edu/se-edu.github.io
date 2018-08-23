@@ -197,7 +197,7 @@ Area Lead for: UI [2016 May - 2017 May]
 
 == Collate
 
-=== https://github.com/issues?utf8=✓&q=repo%3Ase-edu%2Fcollate+involves%3Asebastianquek[Sebastian Kwek]
+=== https://github.com/issues?utf8=✓&q=repo%3Ase-edu%2Fcollate+involves%3Asebastianquek[Sebastian Quek]
 
 Wrote the initial version of https://se-edu.github.io/collate[the Collate tool] [2015 Jun - 2015 Sep]
 
