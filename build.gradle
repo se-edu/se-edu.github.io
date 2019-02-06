@@ -43,4 +43,10 @@ task copyStylesheets(type: Copy) {
 }
 asciidoctor.dependsOn copyStylesheets
 
+task copyCname(type: Copy) {
+    from "${projectDir}/CNAME"
+    into "${asciidoctor.outputDir}/html5"
+}
+asciidoctor.dependsOn copyCname
+
 defaultTasks 'asciidoctor'
