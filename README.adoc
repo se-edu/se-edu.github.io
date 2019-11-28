@@ -57,6 +57,12 @@ We welcome code/content contributions and suggestions from students, instructors
 Post in our https://github.com/se-edu/main/issues[main issue tracker] or in the issue tracker of the respective repo.
 * *Contributing code* : Refer https://github.com/oss-generic/process[OSS-GENERIC/process] for more info on how to proceed.
 
+== Acknowledgements
+
+* *https://www.github.com/[GitHub]*: for the education license, and the other goodies sent to students every semester.
+* *https://www.jetbrains.com/[JetBrains]*: for the education licenses for their Intellij IDE suite.
+* This website is poweredd by *https://www.netlify.com[Netlify]*.
+
 == Contact
 
 To get in touch with us, post an issue https://github.com/se-edu/main/issues[here] or email us at `seer [at] comp.nus.edu.sg`
