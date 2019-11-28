@@ -61,7 +61,7 @@ Post in our https://github.com/se-edu/main/issues[main issue tracker] or in the 
 
 * *https://www.github.com/[GitHub]*: for the education license, and the other goodies sent to students every semester.
 * *https://www.jetbrains.com/[JetBrains]*: for the education licenses for their Intellij IDE suite.
-* This website is poweredd by *https://www.netlify.com[Netlify]*.
+* This website is powered by *https://www.netlify.com[Netlify]*.
 
 == Contact
 
