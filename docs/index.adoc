@@ -1,4 +1,0 @@
-:site-section: Home
-:stylesDir: stylesheets
-:imagesDir: images
-include::../README.adoc[]

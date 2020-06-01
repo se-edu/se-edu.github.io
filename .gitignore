@@ -5,3 +5,6 @@
 .idea_modules/
 /.gradle/
 /build/
+_site/
+_markbind/logs/
+.idea/
