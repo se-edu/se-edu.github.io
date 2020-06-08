@@ -1,0 +1,8 @@
+h1, h2 {
+  color: #0073e6;
+  padding: 30px 10px 10px 0;
+}
+
+h2 {
+  border-top: 5px solid #0073e6;
+}

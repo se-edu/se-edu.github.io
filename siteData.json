@@ -1,0 +1,79 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "src": "README.md",
+      "title": "",
+      "layout": "default",
+      "headings": {
+        "se-edu": "SE-EDU"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "title": "Resources for SE students",
+      "pageNav": 2,
+      "src": "docs/resources.md",
+      "layout": "default",
+      "headings": {
+        "learning-resources": "Learning resources",
+        "software-engineering-for-self-directed-learners-book": "\n           Software Engineering for Self-Directed Learners #book\n        ",
+        "tutorials-coding-standards-and-best-practices-collection": "\n           Tutorials, coding standards, and best practices #collection\n        ",
+        "a-student-s-guide-to-software-engineering-tools-and-amp-techniques-collection": "\n           A Student's Guide to Software Engineering Tools &amp; Techniques #collection\n        "
+      },
+      "headingKeywords": {}
+    },
+    {
+      "title": "SE-EDU Team",
+      "pageNav": 2,
+      "src": "docs/team.md",
+      "layout": "default",
+      "headings": {
+        "se-edu-project-team": "SE-EDU project team",
+        "current-team": "\n           Current team\n        ",
+        "past-members": "\n           Past members\n        ",
+        "past-contributors": "\n           Past contributors\n        "
+      },
+      "headingKeywords": {}
+    },
+    {
+      "title": "Project Templates",
+      "pageNav": 2,
+      "src": "docs/templates.md",
+      "layout": "default",
+      "headings": {
+        "project-templates": "Project templates",
+        "addressbook-level-3-ab3": "\n           AddressBook Level 3 (AB3)\n        ",
+        "duke": "\n           Duke\n        ",
+        "other-oss-projects": "\n           Other OSS projects\n        "
+      },
+      "headingKeywords": {}
+    },
+    {
+      "title": "Tools for SE education",
+      "pageNav": 2,
+      "src": "docs/tools.md",
+      "layout": "default",
+      "headings": {
+        "tools-for-se-education": "Tools for SE education",
+        "reposense": "\n           RepoSense\n        ",
+        "teammates": "\n           TEAMMATES\n        ",
+        "markbind": "\n           MarkBind\n        "
+      },
+      "headingKeywords": {}
+    },
+    {
+      "title": "SE-EDU: FOSS resources for Software Engineering Education",
+      "src": "index.md",
+      "layout": "default",
+      "headings": {
+        "resources-we-offer": "\n           Resources we offer\n        ",
+        "our-team": "\n           Our team\n        ",
+        "contributing-to-se-edu": "\n           Contributing to SE-EDU\n        ",
+        "acknowledgements": "\n           Acknowledgements\n        ",
+        "contact-us": "\n           Contact us\n        "
+      },
+      "headingKeywords": {}
+    }
+  ]
+}

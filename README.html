@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="MarkBind 2.14.1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <link rel="stylesheet" href="markbind/css/bootstrap.min.css">
+  <link rel="stylesheet" href="markbind/css/bootstrap-vue.min.css">
+  <link rel="stylesheet" href="markbind/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="markbind/glyphicons/css/bootstrap-glyphicons.min.css">
+  <link rel="stylesheet" href="markbind/css/octicons.css">
+  <link rel="stylesheet" href="markbind/css/github.min.css">
+  <link rel="stylesheet" href="markbind/css/markbind.css">
+  <link rel="stylesheet" href="/plugins/markbind-plugin-anchors/markbind-plugin-anchors.css">
+  <link rel="stylesheet" href="markbind/layouts/default/styles.css">
+</head>
+
+<body>
+  <div id="app">
+    <header>
+      <navbar placement="top" type="dark" class="temp-navbar">
+        <a slot="brand" href="https://se-edu.github.io" title="SE-EDU Home" class="navbar-brand"> <span><span aria-hidden="true" class="fas fa-home"></span> <strong><strong>SE-EDU</strong></strong></span></a>
+        <li><a href="/docs/templates.html" class="nav-link"><span><strong>Project templates</strong></span></a></li>
+        <li><a href="/docs/resources.html" class="nav-link"><span><strong>Learning resources</strong></span></a></li>
+        <li><a href="/docs/tools.html" class="nav-link"><span><strong>Tools</strong></span></a></li>
+        <li><a href="/docs/team.html" class="nav-link"><span><strong>Team</strong></span></a></li>
+        <li slot="right" class="nav-link">
+          <form class="navbar-form">
+            <searchbar :data="searchData" placeholder="Search this site" :on-hit="searchCallback" menu-align-right></searchbar>
+          </form>
+        </li>
+      </navbar>
+    </header>
+    <div id="flex-body">
+
+      <div id="content-wrapper">
+        <h1 id="se-edu">SE-EDU<a class="fa fa-anchor" href="#se-edu" onclick="event.stopPropagation()"></a></h1>
+        <p>SE-EDU (<a href="http://se-education.org">se-education.org</a>) is a collection of FOSS resources for Software Engineering (SE) educators and students. The full website is available at <a href="https://se-education.org">https://se-education.org</a></p>
+      </div>
+
+
+    </div>
+    <footer>
+
+      <div class="text-center">
+        <small>[Powered by <img src="https://markbind.org/favicon.ico" width="30"> <a href="https://markbind.org/">MarkBind 2.14.1</a> on Mon, 8 Jun 2020, 16:42:03 GMT+8]</small></div>
+    </footer>
+  </div>
+</body>
+<script src="markbind/js/vue.min.js"></script>
+<script src="markbind/js/vue-strap.min.js"></script>
+<script src="markbind/js/bootstrap-utility.min.js"></script>
+<script src="markbind/js/polyfill.min.js"></script>
+<script src="markbind/js/bootstrap-vue.min.js"></script>
+<script>
+  const baseUrl = ''
+  const enableSearch = true
+</script>
+<script src="markbind/js/setup.js"></script>
+<script src="markbind/layouts/default/scripts.js"></script>
+
+</html>
