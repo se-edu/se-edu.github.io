@@ -1,5 +1,5 @@
 <frontmatter>
-  title: "SE-EDU: FOSS resources for Software Engineering Education"
+  title: "SE-EDU: Free Resources for Software Engineering Education"
 </frontmatter>
 
 {% from 'scripts/macros.njk' import thumbnail with context %}
