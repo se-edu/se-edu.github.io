@@ -25,7 +25,7 @@ These are project templates that students can use as the starting point of an SE
   * It is **written in OOP fashion**. It provides a **reasonably well-written** code base **bigger** (around 6 KLoC) than what students usually write in beginner-level SE modules, without being overwhelmingly big.
   * It comes with a **reasonable level of user and developer documentation**.
 * It is named `AddressBook Level 3` (`AB3` for short) because it was initially created as a part of a series of `AddressBook` projects ([`Level 1`](https://github.com/se-edu/addressbook-level1), [`Level 2`](https://github.com/se-edu/addressbook-level2), [`Level 3`](https://github.com/se-edu/addressbook-level3), [`Level 4`](https://github.com/se-edu/addressbook-level4)).
-* The project template is ==available at https://se-education.org/addressbook-level3==
+* The project template is ==available at https://github.com/se-edu/addressbook-level3==
 * Some example projects that used AB3 as the starting point are given below. More can be found [here](https://nus-cs2103-ay1920s1.github.io/website/admin/projectList.html)
 
 <div class="ml-4">
@@ -67,7 +67,7 @@ These are project templates that students can use as the starting point of an SE
 * **This is a project template for a greenfield Java project.**
 * It is almost empty by default but additional configurations (e.g., Gradle, CI, JUnit, Jekyll, etc.) are available in separate branches.
 * It's named after the Java mascot _Duke_. Given below are instructions on how to use it.
-* The project template is ==available at https://se-education.org/duke==
+* The project template is ==available at https://github.com/se-edu/duke==
 
 </div>
 
