@@ -1,108 +1,31 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="MarkBind 2.14.1">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Resources for SE students</title>
-  <link rel="stylesheet" href="../markbind/css/bootstrap.min.css">
-  <link rel="stylesheet" href="../markbind/css/bootstrap-vue.min.css">
-  <link rel="stylesheet" href="../markbind/fontawesome/css/all.min.css">
-  <link rel="stylesheet" href="../markbind/glyphicons/css/bootstrap-glyphicons.min.css">
-  <link rel="stylesheet" href="../markbind/css/octicons.css">
-  <link rel="stylesheet" href="../markbind/css/github.min.css">
-  <link rel="stylesheet" href="../markbind/css/markbind.css">
-  <link rel="stylesheet" href="/plugins/markbind-plugin-anchors/markbind-plugin-anchors.css">
-  <link rel="stylesheet" href="../markbind/layouts/default/styles.css">
-  <link rel="stylesheet" href="../markbind/css/page-nav.css">
-  <link rel="icon" href="/favicon.ico">
-</head>
-
-<body data-spy="scroll" data-target="#page-nav" data-offset="100">
-  <div id="app">
-    <header>
-      <navbar placement="top" type="dark" class="temp-navbar">
-        <a slot="brand" href="https://se-edu.github.io" title="SE-EDU Home" class="navbar-brand"> <span><span aria-hidden="true" class="fas fa-home"></span> <strong><strong>SE-EDU</strong></strong></span></a>
-        <li><a href="/docs/templates.html" class="nav-link"><span><strong>Project templates</strong></span></a></li>
-        <li><a href="/docs/resources.html" class="nav-link"><span><strong>Learning resources</strong></span></a></li>
-        <li><a href="/docs/tools.html" class="nav-link"><span><strong>Tools</strong></span></a></li>
-        <li><a href="/docs/team.html" class="nav-link"><span><strong>Team</strong></span></a></li>
-        <li slot="right" class="nav-link">
-          <form class="navbar-form">
-            <searchbar :data="searchData" placeholder="Search this site" :on-hit="searchCallback" menu-align-right></searchbar>
-          </form>
-        </li>
-      </navbar>
-    </header>
-    <div id="flex-body">
-
-      <div id="content-wrapper">
-        <h1 class="display-4" id="learning-resources">Learning resources<a class="fa fa-anchor" href="#learning-resources" onclick="event.stopPropagation()"></a></h1>
-        <div class="lead">
-          <p>These are learning resources for SE students (e.g., textbooks, tutorials, coding standards, etc.) from SE-EDU.</p>
-        </div>
-
-        <h2 id="software-engineering-for-self-directed-learners-book">
-          <thumbnail circle background="#e67300" font-color="white" size="50"><span aria-hidden="true" class="fas fa-book-open"></span></thumbnail> Software Engineering for Self-Directed Learners <small><span class="badge badge-pill badge-secondary">#book</span></small><a class="fa fa-anchor" href="#software-engineering-for-self-directed-learners-book" onclick="event.stopPropagation()"></a>
-        </h2>
-        <ul>
-          <li>This is an online SE textbook for SE students.</li>
-          <li>Available at <strong><a href="https://se-education.org/se-book">https://se-education.org/se-book</a></strong></li>
-        </ul>
-
-        <h2 id="tutorials-coding-standards-and-best-practices-collection">
-          <thumbnail circle background="#e67300" font-color="white" size="50"><span aria-hidden="true" class="fas fa-file-alt"></span></thumbnail> Tutorials, coding standards, and best practices <small><span class="badge badge-pill badge-secondary">#collection</span></small><a class="fa fa-anchor" href="#tutorials-coding-standards-and-best-practices-collection" onclick="event.stopPropagation()"></a>
-        </h2>
-        <ul>
-          <li>This is a collection of tutorials, coding standards, and best practices suitable for SE students.</li>
-          <li>Available at <strong><a href="https://se-education.org/guides">https://se-education.org/guides</a></strong></li>
-        </ul>
-
-        <h2 id="a-student-s-guide-to-software-engineering-tools-and-amp-techniques-collection">
-          <thumbnail circle background="#e67300" font-color="white" size="50"><span aria-hidden="true" class="fas fa-file-alt"></span></thumbnail> A Student's Guide to Software Engineering Tools &amp; Techniques <small><span class="badge badge-pill badge-secondary">#collection</span></small><a class="fa fa-anchor" href="#a-student-s-guide-to-software-engineering-tools-and-amp-techniques-collection" onclick="event.stopPropagation()"></a>
-        </h2>
-        <ul>
-          <li>This is a collection of articles introducing some tools and techniques relevant to SE student.</li>
-          <li>Available at <strong><a href="https://se-education.org/learningresources">https://se-education.org/learningresources</a></strong></li>
-        </ul>
-      </div>
-
-
-      <nav id="page-nav" class="navbar navbar-light bg-transparent">
-        <div class="border-left-grey nav-inner position-sticky slim-scroll">
-
-          <nav class="nav nav-pills flex-column my-0 small no-flex-wrap">
-            <a class="nav-link py-1" href="#learning-resources">Learning resources&#x200E;</a>
-            <nav class="nav nav-pills flex-column my-0 nested no-flex-wrap">
-              <a class="nav-link py-1" href="#software-engineering-for-self-directed-learners-book"> Software Engineering for Self-Directed Learners #book&#x200E;</a>
-              <a class="nav-link py-1" href="#tutorials-coding-standards-and-best-practices-collection"> Tutorials, coding standards, and best practices #collection&#x200E;</a>
-              <a class="nav-link py-1" href="#a-student-s-guide-to-software-engineering-tools-and-amp-techniques-collection"> A Student's Guide to Software Engineering Tools &amp; Techniques #collection&#x200E;</a>
-            </nav>
-
-          </nav>
-        </div>
-      </nav>
-    </div>
-    <footer>
-
-      <div class="text-center">
-        <small>[Powered by <img src="https://markbind.org/favicon.ico" width="30"> <a href="https://markbind.org/">MarkBind 2.14.1</a> on Mon, 8 Jun 2020, 20:53:54 GMT+8]</small></div>
-    </footer>
-  </div>
-</body>
-<script src="../markbind/js/vue.min.js"></script>
-<script src="../markbind/js/vue-strap.min.js"></script>
-<script src="../markbind/js/bootstrap-utility.min.js"></script>
-<script src="../markbind/js/polyfill.min.js"></script>
-<script src="../markbind/js/bootstrap-vue.min.js"></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="generator" content="MarkBind 3.0.4">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Learning resources</title>
+    <link rel="stylesheet" href="../markbind/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../markbind/css/bootstrap-vue.min.css">
+    <link rel="stylesheet" href="../markbind/fontawesome/css/all.min.css">
+    <link rel="stylesheet" href="../markbind/glyphicons/css/bootstrap-glyphicons.min.css">
+    <link rel="stylesheet" href="../markbind/css/octicons.css">
+    <link rel="stylesheet" href="../markbind/css/codeblock-dark.min.css"><link rel="stylesheet" href="../markbind/css/markbind.min.css"><script src="../markbind/js/polyfill.min.js"></script>
+    <script src="../markbind/js/vue.min.js"></script>
+    <script src="../markbind/js/markbind.min.js"></script>
+    <script src="resources.page-vue-render.js"></script>
+    <script src="../markbind/js/jquery.min.js"></script><link rel="stylesheet" href="/plugins/markbind-plugin-anchors/markbind-plugin-anchors.css">
+    
+  <link rel="stylesheet" href="/css/main.css">
+<link rel="icon" href="/favicon.ico"></head>
 <script>
   const baseUrl = ''
-  const enableSearch = true
 </script>
-<script src="../markbind/js/setup.js"></script>
-<script src="../markbind/layouts/default/scripts.js"></script>
-
+<body >
+<div id="app" data-server-rendered="true"><header fixed=""><div data-v-15113a2f><nav class="navbar navbar-expand-md navbar-dark bg-dark" data-v-15113a2f><div class="container-fluid" data-v-15113a2f><div class="navbar-brand" data-v-15113a2f><a href="/" title="SE-EDU Home" class="navbar-brand" data-v-15113a2f><span data-v-15113a2f><span aria-hidden="true" class="fas fa-home" data-v-15113a2f></span> <strong data-v-15113a2f><strong data-v-15113a2f>SE-EDU</strong></strong></span></a></div> <button type="button" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-v-15113a2f><span class="navbar-toggler-icon" data-v-15113a2f></span> </button> <div class="navbar-collapse collapse" data-v-15113a2f><ul class="navbar-nav mr-auto mt-2 mt-lg-0" data-v-15113a2f> <li data-v-15113a2f><a href="/docs/templates.html" class="nav-link" data-v-15113a2f><span data-v-15113a2f><strong data-v-15113a2f>Project templates</strong></span></a></li> <li data-v-15113a2f><a href="/docs/resources.html" class="nav-link" data-v-15113a2f><span data-v-15113a2f><strong data-v-15113a2f>Learning resources</strong></span></a></li> <li data-v-15113a2f><a href="/docs/tools.html" class="nav-link" data-v-15113a2f><span data-v-15113a2f><strong data-v-15113a2f>Tools</strong></span></a></li> <li data-v-15113a2f><a href="/docs/team.html" class="nav-link" data-v-15113a2f><span data-v-15113a2f><strong data-v-15113a2f>Team</strong></span></a></li></ul> <ul class="navbar-nav navbar-right" data-v-15113a2f><li class="nav-link" data-v-15113a2f><form class="navbar-form" data-v-15113a2f><div style="position:relative;"><input type="text" placeholder="Search this site" autocomplete="off" value="" class="form-control"> <ul class="dropdown-menu search-dropdown-menu dropdown-menu-right"></ul></div></form></li></ul></div></div></nav> <div class="lower-navbar-container" style="display:none;" data-v-15113a2f><!----> <!----></div></div></header> <div id="flex-body"><div id="content-wrapper" class="fixed-header-padding"><h1 id="learning-resources" class="display-4"><span id="learning-resources" class="anchor"></span>Learning resources<a href="#learning-resources" onclick="event.stopPropagation()" class="fa fa-anchor"></a></h1> <div class="lead"><p>These are learning resources for SE students (e.g., textbooks, tutorials, coding standards, etc.) from SE-EDU.</p></div> <h2 id="software-engineering-for-self-directed-learners-book"><span id="software-engineering-for-self-directed-learners-book" class="anchor"></span><span class="thumb-wrapper thumb-circle" style="font-size:25px;color:white;background:#e67300;"><img width="" height="" alt="" class="thumb-image"> <span aria-hidden="true" class="fas fa-book-open"></span></span> Software Engineering for Self-Directed Learners <small><span class="badge badge-pill badge-secondary">#book</span></small><a href="#software-engineering-for-self-directed-learners-book" onclick="event.stopPropagation()" class="fa fa-anchor"></a></h2> <ul><li>This is an online SE textbook for SE students.</li> <li>Available at <strong><a href="https://se-education.org/se-book">https://se-education.org/se-book</a></strong></li></ul> <h2 id="tutorials-coding-standards-and-best-practices-collection"><span id="tutorials-coding-standards-and-best-practices-collection" class="anchor"></span><span class="thumb-wrapper thumb-circle" style="font-size:25px;color:white;background:#e67300;"><img width="" height="" alt="" class="thumb-image"> <span aria-hidden="true" class="fas fa-file-alt"></span></span> Tutorials, coding standards, and best practices <small><span class="badge badge-pill badge-secondary">#collection</span></small><a href="#tutorials-coding-standards-and-best-practices-collection" onclick="event.stopPropagation()" class="fa fa-anchor"></a></h2> <ul><li>This is a collection of tutorials, coding standards, and best practices suitable for SE students.</li> <li>Available at <strong><a href="https://se-education.org/guides">https://se-education.org/guides</a></strong></li></ul> <h2 id="a-student-s-guide-to-software-engineering-tools-and-amp-techniques-collection"><span id="a-student-s-guide-to-software-engineering-tools-and-amp-techniques-collection" class="anchor"></span><span class="thumb-wrapper thumb-circle" style="font-size:25px;color:white;background:#e67300;"><img width="" height="" alt="" class="thumb-image"> <span aria-hidden="true" class="fas fa-file-alt"></span></span> A Student's Guide to Software Engineering Tools &amp; Techniques <small><span class="badge badge-pill badge-secondary">#collection</span></small><a href="#a-student-s-guide-to-software-engineering-tools-and-amp-techniques-collection" onclick="event.stopPropagation()" class="fa fa-anchor"></a></h2> <ul><li>This is a collection of articles introducing some tools and techniques relevant to SE student.</li> <li>Available at <strong><a href="https://se-education.org/learningresources">https://se-education.org/learningresources</a></strong></li></ul> <i id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true" class="fa fa-arrow-circle-up fa-lg d-print-none"></i></div></div> <footer><div class="text-center"><small>[Powered by <img src="https://markbind.org/favicon.ico" width="30"> <a href="https://markbind.org/">MarkBind 3.0.4</a> on Wed, 14 Jul 2021, 1:22:19 GMT+8]</small></div></footer></div>
+</body><script src="../markbind/js/bootstrap-utility.min.js"></script>
+<script>
+  MarkBind.setupWithSearch()
+</script>
 </html>

@@ -1,115 +1,32 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="MarkBind 2.14.1">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>SE-EDU: Free Resources for Software Engineering Education</title>
-  <link rel="stylesheet" href="markbind/css/bootstrap.min.css">
-  <link rel="stylesheet" href="markbind/css/bootstrap-vue.min.css">
-  <link rel="stylesheet" href="markbind/fontawesome/css/all.min.css">
-  <link rel="stylesheet" href="markbind/glyphicons/css/bootstrap-glyphicons.min.css">
-  <link rel="stylesheet" href="markbind/css/octicons.css">
-  <link rel="stylesheet" href="markbind/css/github.min.css">
-  <link rel="stylesheet" href="markbind/css/markbind.css">
-  <link rel="stylesheet" href="/plugins/markbind-plugin-anchors/markbind-plugin-anchors.css">
-  <link rel="stylesheet" href="markbind/layouts/default/styles.css">
-  <link rel="icon" href="/favicon.ico">
-</head>
-
-<body>
-  <div id="app">
-    <header>
-      <navbar placement="top" type="dark" class="temp-navbar">
-        <a slot="brand" href="https://se-edu.github.io" title="SE-EDU Home" class="navbar-brand"> <span><span aria-hidden="true" class="fas fa-home"></span> <strong><strong>SE-EDU</strong></strong></span></a>
-        <li><a href="/docs/templates.html" class="nav-link"><span><strong>Project templates</strong></span></a></li>
-        <li><a href="/docs/resources.html" class="nav-link"><span><strong>Learning resources</strong></span></a></li>
-        <li><a href="/docs/tools.html" class="nav-link"><span><strong>Tools</strong></span></a></li>
-        <li><a href="/docs/team.html" class="nav-link"><span><strong>Team</strong></span></a></li>
-        <li slot="right" class="nav-link">
-          <form class="navbar-form">
-            <searchbar :data="searchData" placeholder="Search this site" :on-hit="searchCallback" menu-align-right></searchbar>
-          </form>
-        </li>
-      </navbar>
-    </header>
-    <header>
-      <div class="jumbotron jumbotron-fluid text-center">
-        <div class="container">
-          <p><a href="/docs/images/logo.png" target="_self"><img src="/docs/images/logo.png" alt class="img-fluid"></a></p>
-          <div class="lead ml-3">
-            <p><strong>SE-EDU is a collection of <span data-mb-component-type="tooltip" v-b-tooltip.hover.top.html="tooltipInnerContentGetter" class="trigger"><span data-mb-html-for="_content">Free and Open Source</span>FOSS</span> resources for Software Engineering (SE) educators and students.</strong></p>
-          </div>
-        </div>
-      </div>
-    </header>
-    <div id="flex-body">
-
-      <div id="content-wrapper">
-
-        <h1 id="resources-we-offer">
-          <thumbnail circle background="#e67300" font-color="white" size="50"><span aria-hidden="true" class="fas fa-home"></span></thumbnail> Resources we offer<a class="fa fa-anchor" href="#resources-we-offer" onclick="event.stopPropagation()"></a>
-        </h1>
-        <ul>
-          <li><a href="/docs/templates.html"><strong>Project templates</strong></a> for students to use in school projects, both greenfield and brownfield.</li>
-          <li><a href="/docs/resources.html"><strong>Learning resources</strong></a> for SE students e.g., online textbooks, tutorials, coding standards, etc.</li>
-          <li><a href="/docs/tools.html"><strong>Tools</strong></a> to help educators, SE educators in particular.</li>
-        </ul>
-        <h1 id="our-team">
-          <thumbnail circle background="#e67300" font-color="white" size="50"><span aria-hidden="true" class="fas fa-users"></span></thumbnail> Our team<a class="fa fa-anchor" href="#our-team" onclick="event.stopPropagation()"></a>
-        </h1>
-        <div class="ml-4">
-          <p>Our <strong>project team</strong> and the <strong>list of contributors</strong> are <a href="/docs/team.html">here</a>.</p>
-        </div>
-        <h1 id="contributing-to-se-edu">
-          <thumbnail circle background="#e67300" font-color="white" size="50"><span aria-hidden="true" class="fas fa-code-branch"></span></thumbnail> Contributing to SE-EDU<a class="fa fa-anchor" href="#contributing-to-se-edu" onclick="event.stopPropagation()"></a>
-        </h1>
-        <div class="ml-4">
-          <p>We welcome code/content contributions and suggestions from students, instructors, and developers.</p>
-          <ul>
-            <li><strong>Bug reports, Suggestions</strong> : If you noticed bugs or have suggestions on how to improve,
-              Post in our <a href="https://github.com/se-edu/main/issues">main issue tracker</a> or in the issue tracker of the respective repo.</li>
-            <li><strong>Contributing code</strong>: PRs welcome. Refer to the documentation of each project to find more details.</li>
-          </ul>
-        </div>
-        <h1 id="acknowledgements">
-          <thumbnail circle background="#e67300" font-color="white" size="50"><span aria-hidden="true" class="fas fa-heart"></span></thumbnail> Acknowledgements<a class="fa fa-anchor" href="#acknowledgements" onclick="event.stopPropagation()"></a>
-        </h1>
-        <ul>
-          <li><a href="https://www.github.com/"><strong>GitHub</strong></a>: for the education license, and the other goodies sent to students every semester.</li>
-          <li><a href="https://www.jetbrains.com/"><strong>JetBrains</strong></a>: for the education licenses for their Intellij IDE suite.</li>
-          <li><a href="https://www.netlify.com"><strong>Netlify</strong></a>, for providing deploy previews for some of SE-EDU projects.</li>
-        </ul>
-        <h1 id="contact-us">
-          <thumbnail circle background="#e67300" font-color="white" size="50"><span aria-hidden="true" class="fas fa-envelope"></span></thumbnail> Contact us<a class="fa fa-anchor" href="#contact-us" onclick="event.stopPropagation()"></a>
-        </h1>
-        <div class="ml-4">
-          <p>To get in touch with us, post an issue <a href="https://github.com/se-edu/main/issues">here</a> or email us at <code>seer [at] comp.nus.edu.sg</code></p>
-        </div>
-      </div>
-
-
-    </div>
-    <footer>
-
-      <div class="text-center">
-        <small>[Powered by <img src="https://markbind.org/favicon.ico" width="30"> <a href="https://markbind.org/">MarkBind 2.14.1</a> on Mon, 8 Jun 2020, 20:53:54 GMT+8]</small></div>
-    </footer>
-  </div>
-</body>
-<script src="markbind/js/vue.min.js"></script>
-<script src="markbind/js/vue-strap.min.js"></script>
-<script src="markbind/js/bootstrap-utility.min.js"></script>
-<script src="markbind/js/polyfill.min.js"></script>
-<script src="markbind/js/bootstrap-vue.min.js"></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="generator" content="MarkBind 3.0.4">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SE-EDU: Free Resources for Software Engineering Education</title>
+    <link rel="stylesheet" href="markbind/css/bootstrap.min.css">
+    <link rel="stylesheet" href="markbind/css/bootstrap-vue.min.css">
+    <link rel="stylesheet" href="markbind/fontawesome/css/all.min.css">
+    <link rel="stylesheet" href="markbind/glyphicons/css/bootstrap-glyphicons.min.css">
+    <link rel="stylesheet" href="markbind/css/octicons.css">
+    <link rel="stylesheet" href="markbind/css/codeblock-dark.min.css"><link rel="stylesheet" href="markbind/css/markbind.min.css"><script src="markbind/js/polyfill.min.js"></script>
+    <script src="markbind/js/vue.min.js"></script>
+    <script src="markbind/js/markbind.min.js"></script>
+    <script src="index.page-vue-render.js"></script>
+    <script src="markbind/js/jquery.min.js"></script><link rel="stylesheet" href="/plugins/markbind-plugin-anchors/markbind-plugin-anchors.css">
+    
+  <link rel="stylesheet" href="/css/main.css">
+<link rel="icon" href="/favicon.ico"></head>
 <script>
   const baseUrl = ''
-  const enableSearch = true
 </script>
-<script src="markbind/js/setup.js"></script>
-<script src="markbind/layouts/default/scripts.js"></script>
-
+<body >
+<div id="app" data-server-rendered="true"><header fixed=""><div data-v-15113a2f><nav class="navbar navbar-expand-md navbar-dark bg-dark" data-v-15113a2f><div class="container-fluid" data-v-15113a2f><div class="navbar-brand" data-v-15113a2f><a href="/" title="SE-EDU Home" class="navbar-brand" data-v-15113a2f><span data-v-15113a2f><span aria-hidden="true" class="fas fa-home" data-v-15113a2f></span> <strong data-v-15113a2f><strong data-v-15113a2f>SE-EDU</strong></strong></span></a></div> <button type="button" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-v-15113a2f><span class="navbar-toggler-icon" data-v-15113a2f></span> </button> <div class="navbar-collapse collapse" data-v-15113a2f><ul class="navbar-nav mr-auto mt-2 mt-lg-0" data-v-15113a2f> <li data-v-15113a2f><a href="/docs/templates.html" class="nav-link" data-v-15113a2f><span data-v-15113a2f><strong data-v-15113a2f>Project templates</strong></span></a></li> <li data-v-15113a2f><a href="/docs/resources.html" class="nav-link" data-v-15113a2f><span data-v-15113a2f><strong data-v-15113a2f>Learning resources</strong></span></a></li> <li data-v-15113a2f><a href="/docs/tools.html" class="nav-link" data-v-15113a2f><span data-v-15113a2f><strong data-v-15113a2f>Tools</strong></span></a></li> <li data-v-15113a2f><a href="/docs/team.html" class="nav-link" data-v-15113a2f><span data-v-15113a2f><strong data-v-15113a2f>Team</strong></span></a></li></ul> <ul class="navbar-nav navbar-right" data-v-15113a2f><li class="nav-link" data-v-15113a2f><form class="navbar-form" data-v-15113a2f><div style="position:relative;"><input type="text" placeholder="Search this site" autocomplete="off" value="" class="form-control"> <ul class="dropdown-menu search-dropdown-menu dropdown-menu-right"></ul></div></form></li></ul></div></div></nav> <div class="lower-navbar-container" style="display:none;" data-v-15113a2f><!----> <!----></div></div></header> <div id="flex-body"><div id="content-wrapper" class="fixed-header-padding"><header><div class="jumbotron jumbotron-fluid text-center"><div class="container"><p><a href="/docs/images/logo.png" target="_self"><img src="/docs/images/logo.png" alt="" class="img-fluid"></a></p> <div class="lead ml-3"><p><strong>SE-EDU is a collection of <span data-mb-component-type="tooltip" class="trigger"><span data-mb-slot-name="_content">Free and Open Source</span>FOSS</span> resources for Software Engineering (SE) educators and students.</strong></p></div></div></div></header> <h1 id="resources-we-offer"><span id="resources-we-offer" class="anchor"></span><span class="thumb-wrapper thumb-circle" style="font-size:25px;color:white;background:#e67300;"><img width="" height="" alt="" class="thumb-image"> <span aria-hidden="true" class="fas fa-home"></span></span> Resources we offer<a href="#resources-we-offer" onclick="event.stopPropagation()" class="fa fa-anchor"></a></h1> <ul><li><a href="/docs/templates.html"><strong>Project templates</strong></a> for students to use in school projects, both greenfield and brownfield.</li> <li><a href="/docs/resources.html"><strong>Learning resources</strong></a> for SE students e.g., online textbooks, tutorials, coding standards, etc.</li> <li><a href="/docs/tools.html"><strong>Tools</strong></a> to help educators, SE educators in particular.</li></ul> <h1 id="our-team"><span id="our-team" class="anchor"></span><span class="thumb-wrapper thumb-circle" style="font-size:25px;color:white;background:#e67300;"><img width="" height="" alt="" class="thumb-image"> <span aria-hidden="true" class="fas fa-users"></span></span> Our team<a href="#our-team" onclick="event.stopPropagation()" class="fa fa-anchor"></a></h1> <div class="ml-4"><p>Our <strong>project team</strong> and the <strong>list of contributors</strong> are <a href="/docs/team.html">here</a>.</p></div> <h1 id="contributing-to-se-edu"><span id="contributing-to-se-edu" class="anchor"></span><span class="thumb-wrapper thumb-circle" style="font-size:25px;color:white;background:#e67300;"><img width="" height="" alt="" class="thumb-image"> <span aria-hidden="true" class="fas fa-code-branch"></span></span> Contributing to SE-EDU<a href="#contributing-to-se-edu" onclick="event.stopPropagation()" class="fa fa-anchor"></a></h1> <div class="ml-4"><p>We welcome code/content contributions and suggestions from students, instructors, and developers.</p> <ul><li><strong>Bug reports, Suggestions</strong> : If you noticed bugs or have suggestions on how to improve,
+Post in our <a href="https://github.com/se-edu/main/issues">main issue tracker</a> or in the issue tracker of the respective repo.</li> <li><strong>Contributing code</strong>: PRs welcome. Refer to the documentation of each project to find more details.</li></ul></div> <h1 id="acknowledgements"><span id="acknowledgements" class="anchor"></span><span class="thumb-wrapper thumb-circle" style="font-size:25px;color:white;background:#e67300;"><img width="" height="" alt="" class="thumb-image"> <span aria-hidden="true" class="fas fa-heart"></span></span> Acknowledgements<a href="#acknowledgements" onclick="event.stopPropagation()" class="fa fa-anchor"></a></h1> <ul><li><a href="https://www.github.com/"><strong>GitHub</strong></a>: for the education license, and the other goodies sent to students every semester.</li> <li><a href="https://www.jetbrains.com/"><strong>JetBrains</strong></a>: for the education licenses for their Intellij IDE suite.</li> <li><a href="https://www.netlify.com"><strong>Netlify</strong></a>, for providing deploy previews for some of SE-EDU projects.</li></ul> <h1 id="contact-us"><span id="contact-us" class="anchor"></span><span class="thumb-wrapper thumb-circle" style="font-size:25px;color:white;background:#e67300;"><img width="" height="" alt="" class="thumb-image"> <span aria-hidden="true" class="fas fa-envelope"></span></span> Contact us<a href="#contact-us" onclick="event.stopPropagation()" class="fa fa-anchor"></a></h1> <div class="ml-4"><p>To get in touch with us, post an issue <a href="https://github.com/se-edu/main/issues">here</a> or email us at <code class="hljs inline no-lang">seer [at] comp.nus.edu.sg</code></p></div> <i id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true" class="fa fa-arrow-circle-up fa-lg d-print-none"></i></div></div> <footer><div class="text-center"><small>[Powered by <img src="https://markbind.org/favicon.ico" width="30"> <a href="https://markbind.org/">MarkBind 3.0.4</a> on Wed, 14 Jul 2021, 1:22:19 GMT+8]</small></div></footer></div>
+</body><script src="markbind/js/bootstrap-utility.min.js"></script>
+<script>
+  MarkBind.setupWithSearch()
+</script>
 </html>

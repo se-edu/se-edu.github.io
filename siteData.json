@@ -4,74 +4,64 @@
     {
       "src": "README.md",
       "title": "",
-      "layout": "default",
       "headings": {
         "se-edu": "SE-EDU"
       },
       "headingKeywords": {}
     },
     {
-      "title": "Resources for SE students",
-      "pageNav": 2,
       "src": "docs/resources.md",
-      "layout": "default",
+      "title": "Learning resources",
       "headings": {
         "learning-resources": "Learning resources",
-        "software-engineering-for-self-directed-learners-book": "\n           Software Engineering for Self-Directed Learners #book\n        ",
-        "tutorials-coding-standards-and-best-practices-collection": "\n           Tutorials, coding standards, and best practices #collection\n        ",
-        "a-student-s-guide-to-software-engineering-tools-and-amp-techniques-collection": "\n           A Student's Guide to Software Engineering Tools &amp; Techniques #collection\n        "
+        "software-engineering-for-self-directed-learners-book": " Software Engineering for Self-Directed Learners #book",
+        "tutorials-coding-standards-and-best-practices-collection": " Tutorials, coding standards, and best practices #collection",
+        "a-student-s-guide-to-software-engineering-tools-and-amp-techniques-collection": " A Student's Guide to Software Engineering Tools &amp; Techniques #collection"
       },
       "headingKeywords": {}
     },
     {
-      "title": "SE-EDU Team",
-      "pageNav": 2,
       "src": "docs/team.md",
-      "layout": "default",
+      "title": "SE-EDU project Team",
       "headings": {
         "se-edu-project-team": "SE-EDU project team",
-        "current-team": "\n           Current team\n        ",
-        "past-members": "\n           Past members\n        ",
-        "past-contributors": "\n           Past contributors\n        "
+        "current-team": " Current team",
+        "past-members": " Past members",
+        "past-contributors": " Past contributors"
       },
       "headingKeywords": {}
     },
     {
-      "title": "Project Templates",
-      "pageNav": 2,
       "src": "docs/templates.md",
-      "layout": "default",
+      "title": "Project templates",
       "headings": {
         "project-templates": "Project templates",
-        "addressbook-level-3-ab3": "\n           AddressBook Level 3 (AB3)\n        ",
-        "duke": "\n           Duke\n        ",
-        "other-oss-projects": "\n           Other OSS projects\n        "
+        "addressbook-level-3-ab3": " AddressBook Level 3 (AB3)",
+        "duke": " Duke",
+        "other-oss-projects": " Other OSS projects"
       },
       "headingKeywords": {}
     },
     {
-      "title": "Tools for SE education",
-      "pageNav": 2,
       "src": "docs/tools.md",
-      "layout": "default",
+      "title": "Tools for SE education",
       "headings": {
         "tools-for-se-education": "Tools for SE education",
-        "reposense": "\n           RepoSense\n        ",
-        "teammates": "\n           TEAMMATES\n        ",
-        "markbind": "\n           MarkBind\n        "
+        "reposense": " RepoSense",
+        "teammates": " TEAMMATES",
+        "markbind": " MarkBind"
       },
       "headingKeywords": {}
     },
     {
-      "title": "SE-EDU: Free Resources for Software Engineering Education",
       "src": "index.md",
-      "layout": "default",
+      "title": "SE-EDU: Free Resources for Software Engineering Education",
       "headings": {
-        "resources-we-offer": "\n           Resources we offer\n        ",
-        "our-team": "\n           Our team\n        ",
-        "contributing-to-se-edu": "\n           Contributing to SE-EDU\n        ",
-        "acknowledgements": "\n           Acknowledgements\n        ",
-        "contact-us": "\n           Contact us\n        "
+        "resources-we-offer": " Resources we offer",
+        "our-team": " Our team",
+        "contributing-to-se-edu": " Contributing to SE-EDU",
+        "acknowledgements": " Acknowledgements",
+        "contact-us": " Contact us"
       },
       "headingKeywords": {}
     }
