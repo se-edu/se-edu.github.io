@@ -1,5 +1,5 @@
 <frontmatter>
-  title: "SE-EDU Team"
+  title: "SE-EDU project Team"
   pageNav: 2
 </frontmatter>
 

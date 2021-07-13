@@ -1,5 +1,5 @@
 <frontmatter>
-  title: "Project Templates"
+  title: "Project templates"
   pageNav: 2
 </frontmatter>
 

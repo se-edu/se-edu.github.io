@@ -1,6 +1,10 @@
-<header>
-<navbar placement="top" type="dark">
-  <a slot="brand" href="https://se-edu.github.io" title="SE-EDU Home" class="navbar-brand"> <md>:fas-home: ****SE-EDU****</md></a>
+<head-bottom>
+  <link rel="stylesheet" href="{{baseUrl}}/css/main.css">
+</head-bottom>
+
+<header fixed>
+  <navbar type="dark">
+  <a slot="brand" href="/" title="SE-EDU Home" class="navbar-brand"> <md>:fas-home: ****SE-EDU****</md></a>
   <li><a href="{{baseUrl}}/docs/templates.html" class="nav-link"><md>**Project templates**</md></a></li>
   <li><a href="{{baseUrl}}/docs/resources.html" class="nav-link"><md>**Learning resources**</md></a></li>
   <li><a href="{{baseUrl}}/docs/tools.html" class="nav-link"><md>**Tools**</md></a></li>
@@ -10,5 +14,16 @@
       <searchbar :data="searchData" placeholder="Search this site" :on-hit="searchCallback" menu-align-right ></searchbar>
     </form>
   </li>
-</navbar>
+  </navbar>
 </header>
+<div id="flex-body">
+  <div id="content-wrapper" class="fixed-header-padding">
+    {{ content }}
+  </div>
+</div>
+
+<footer>
+  <div class="text-center">
+    <small>[Powered by <img src="https://markbind.org/favicon.ico" width="30"> {{MarkBind}} on {{timestamp}}]</small>
+  </div>
+</footer>

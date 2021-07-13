@@ -28,9 +28,9 @@ RepoSense is a contribution analysis tool for Git repositories. It is particular
 
 TEAMMATES is a free online service for managing feedback paths in classes. A common (but not the only) use is for students to give peer feedback to other students.
 
-<pic src="http://teammatesv4.appspot.com/images/overview.png"></pic>
+<pic src="https://teammatesv4.appspot.com/assets/images/overview.png"></pic>
 
-**TEAMMATES is available at https://teammatesOnline.info**
+**TEAMMATES is available at http://teammatesOnline.info**
 
 <!-- --------------------------------------------------------------------------------------------------------- -->
 

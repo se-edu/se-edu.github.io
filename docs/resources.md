@@ -1,5 +1,5 @@
 <frontmatter>
-  title: "Resources for SE students"
+  title: "Learning resources"
   pageNav: 2
 </frontmatter>
 
