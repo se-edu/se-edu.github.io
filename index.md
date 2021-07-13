@@ -1,5 +1,6 @@
 <frontmatter>
   title: "SE-EDU: Free Resources for Software Engineering Education"
+  layout: "landing.md"
 </frontmatter>
 
 {% from 'scripts/macros.njk' import thumbnail with context %}
