@@ -35,11 +35,74 @@ Note that the following sub-projects (and sister projects) manage their own list
 
 -----------------------------------------------------------------------------------------------------
 
+#### [Wang Chao](https://github.com/fzdy1914)
+
+<img src="https://github.com/fzdy1914.png" width="100">
+
+**Role**: Mentor [2020 Jan - ]<br>
+Committer [2019 Jan - 2019 Dec]
+
+-----------------------------------------------------------------------------------------------------
+
+#### [CHANG RUI FENG](https://github.com/RuiFengg)
+
+<img src="https://github.com/RuiFengg.png" width="100">
+
+**Role**: Contributor [2021 Jan - ]
+
+-----------------------------------------------------------------------------------------------------
+
+#### [LIM WEI QUAN, ERNEST](https://github.com/ernestlim8)
+
+<img src="https://github.com/ernestlim8.png" width="100">
+
+**Role**: Contributor [2021 Jan - ]
+
+-----------------------------------------------------------------------------------------------------
+
+#### [LOW SIANG ERN](https://github.com/siangernlow)
+
+<img src="https://github.com/siangernlow.png" width="100">
+
+**Role**: Contributor [2021 Jan - ]
+
+-----------------------------------------------------------------------------------------------------
+
+#### [LUM JIAN YANG, SEAN](https://github.com/seanjyjy)
+
+<img src="https://github.com/seanjyjy.png" width="100">
+
+**Role**: Contributor [2021 Jan - ]
+
+-----------------------------------------------------------------------------------------------------
+
+#### [Lim Jin Hao](https://github.com/JinHao-L)
+
+<img src="https://github.com/JinHao-L.png" width="100">
+
+**Role**: Contributor [2021 Jan - ]
+
+-----------------------------------------------------------------------------------------------------
+
+#### [TAN YU LI, JAMES](https://github.com/iamjamestan)
+
+<img src="https://github.com/iamjamestan.png" width="100">
+
+**Role**: Contributor [2021 Jan - ]
+
+<!-- ==================================================================================================== -->
+
+</div>
+
+## {{ thumbnail(":fas-users:") }} Past members
+
+<div class="ml-4">
+
 #### [Paul Tan Han Kiat](https://github.com/issues?utf8=✓&q=repo%3Ase-edu%2Faddressbook-level1+repo%3Ase-edu%2Faddressbook-level2+repo%3Ase-edu%2Faddressbook-level3+repo%3Ase-edu%2Faddressbook-level4+involves%3Apyokagan)
 
 <img src="images/PaulTanHanKiat.png" width="100">
 
-**Role**: Mentor [2018 Jan - ]<br>
+**Role**: Mentor [2018 Jan - 2020 Dec]<br>
 Area Lead for Code Quality [2017 Aug - 2017 Dec]<br>
 Committer [2016 Dec - 2017 Jul]
 
@@ -49,24 +112,10 @@ Committer [2016 Dec - 2017 Jul]
 
 <img src="https://github.com/j-lum.png" width="100">
 
-**Role**: Project Lead [2020 May - ]<br>
+**Role**: Project Lead [2020 May - 2020 Dec]<br>
 Committer [2019 May - 2020 Apr]
 
 -----------------------------------------------------------------------------------------------------
-
-#### [Wang Chao](https://github.com/fzdy1914)
-
-<img src="https://github.com/fzdy1914.png" width="100">
-
-**Role**: Committer [2019 Jan - ]
-
-<!-- ==================================================================================================== -->
-
-</div>
-
-## {{ thumbnail(":fas-users:") }} Past members
-
-<div class="ml-4">
 
 #### [Lin Sin Jie](https://github.com/fzdy1914)
 
