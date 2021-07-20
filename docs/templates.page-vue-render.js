@@ -26,6 +26,6 @@ with(this){return _c('div',{staticClass:"ml-4"},[_c('img',{attrs:{"src":"/docs/i
 with(this){return _c('div',{staticClass:"ml-4"},[_c('p',[_v("For those interested in contributing to a real project (rather than build on a project template), check out the OSS projects listed in the "),_c('a',{attrs:{"href":"/docs/tools.html"}},[_v("Tools page")]),_v(". As those tools are meant for SE (hence, relatable) and were built by SE students (hence, not too big/complex), "),_c('strong',[_v("contributing to them is a very good way for SE students to hone their SE skills")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("[Powered by "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(" on Wed, 14 Jul 2021, 2:08:38 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("[Powered by "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(" on Wed, 21 Jul 2021, 0:47:23 GMT+8]")])])])}
 }];
   
