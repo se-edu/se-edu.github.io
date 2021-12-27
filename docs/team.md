@@ -35,34 +35,9 @@ Note that the following sub-projects (and sister projects) manage their own list
 
 -----------------------------------------------------------------------------------------------------
 
-#### [Wang Chao](https://github.com/fzdy1914)
-
-<img src="https://github.com/fzdy1914.png" width="100">
-
-**Role**: Mentor [2020 Jan - ]<br>
-Committer [2019 Jan - 2019 Dec]
-
------------------------------------------------------------------------------------------------------
-
-#### [CHANG RUI FENG](https://github.com/RuiFengg)
-
-<img src="https://github.com/RuiFengg.png" width="100">
-
-**Role**: Contributor [2021 Jan - ]
-
------------------------------------------------------------------------------------------------------
-
 #### [LIM WEI QUAN, ERNEST](https://github.com/ernestlim8)
 
 <img src="https://github.com/ernestlim8.png" width="100">
-
-**Role**: Contributor [2021 Jan - ]
-
------------------------------------------------------------------------------------------------------
-
-#### [LOW SIANG ERN](https://github.com/siangernlow)
-
-<img src="https://github.com/siangernlow.png" width="100">
 
 **Role**: Contributor [2021 Jan - ]
 
@@ -83,12 +58,28 @@ Committer [2019 Jan - 2019 Dec]
 **Role**: Contributor [2021 Jan - ]
 
 -----------------------------------------------------------------------------------------------------
+#### [JOEL HO ENG KIAT](https://github.com/JoelHo)
 
-#### [TAN YU LI, JAMES](https://github.com/iamjamestan)
+<img src="https://github.com/JoelHo.png" width="100">
 
-<img src="https://github.com/iamjamestan.png" width="100">
+**Role**: Contributor [2021 Aug - ]
 
-**Role**: Contributor [2021 Jan - ]
+-----------------------------------------------------------------------------------------------------
+
+#### [KINGSLEY KUAN JUN HAO](https://github.com/kingsleykuan)
+
+<img src="https://github.com/kingsleykuan.png" width="100">
+
+**Role**: Contributor [2021 Aug - ]
+
+-----------------------------------------------------------------------------------------------------
+
+#### [KOU YONG KANG](https://github.com/kouyk)
+
+<img src="https://github.com/kouyk.png" width="100">
+
+**Role**: Contributor [2021 Aug - ]
+
 
 <!-- ==================================================================================================== -->
 
@@ -97,6 +88,17 @@ Committer [2019 Jan - 2019 Dec]
 ## {{ thumbnail(":fas-users:") }} Past members
 
 <div class="ml-4">
+
+-----------------------------------------------------------------------------------------------------
+
+#### [Wang Chao](https://github.com/fzdy1914)
+
+<img src="https://github.com/fzdy1914.png" width="100">
+
+**Role**: Mentor [2020 Jan - 2021 Aug]<br>
+Committer [2019 Jan - 2019 Dec]
+
+-----------------------------------------------------------------------------------------------------
 
 #### [Paul Tan Han Kiat](https://github.com/issues?utf8=✓&q=repo%3Ase-edu%2Faddressbook-level1+repo%3Ase-edu%2Faddressbook-level2+repo%3Ase-edu%2Faddressbook-level3+repo%3Ase-edu%2Faddressbook-level4+involves%3Apyokagan)
 
@@ -284,9 +286,11 @@ Wrote the initial version of the now-defunct [Collate tool](https://se-edu.githu
 
 <div class="ml-4">
 
+
 * [Akshay Narayan](https://github.com/issues?utf8=✓&q=repo%3Ase-edu%2Faddressbook-level1+repo%3Ase-edu%2Faddressbook-level2+repo%3Ase-edu%2Faddressbook-level3+repo%3Ase-edu%2Faddressbook-level4+involves%3Aokkhoy)
 * [Apoorva](https://github.com/issues?utf8=✓&q=repo%3Ase-edu%2Faddressbook-level1+repo%3Ase-edu%2Faddressbook-level2+repo%3Ase-edu%2Faddressbook-level3+repo%3Ase-edu%2Faddressbook-level4+involves%3Aapoorva17)
 * [Brandon Yeo](https://github.com/issues?utf8=✓&q=repo%3Ase-edu%2Faddressbook-level1+repo%3Ase-edu%2Faddressbook-level2+repo%3Ase-edu%2Faddressbook-level3+repo%3Ase-edu%2Faddressbook-level4+involves%3Abrandonyeoxg)
+* [CHANG RUI FENG](https://github.com/RuiFengg)
 * [Chia Wei Kang](https://github.com/issues?utf8=✓&q=repo%3Ase-edu%2Faddressbook-level1+repo%3Ase-edu%2Faddressbook-level2+repo%3Ase-edu%2Faddressbook-level3+repo%3Ase-edu%2Faddressbook-level4+involves%3Aweikangchia)
 * [Clarence Chee](https://github.com/issues?utf8=✓&q=repo%3Ase-edu%2Faddressbook-level1+repo%3Ase-edu%2Faddressbook-level2+repo%3Ase-edu%2Faddressbook-level3+repo%3Ase-edu%2Faddressbook-level4+involves%3Acheec)
 * [Derek](https://github.com/issues?utf8=✓&q=repo%3Ase-edu%2Faddressbook-level1+repo%3Ase-edu%2Faddressbook-level2+repo%3Ase-edu%2Faddressbook-level3+repo%3Ase-edu%2Faddressbook-level4+involves%3A500poundbear)
@@ -304,11 +308,13 @@ Wrote the initial version of the now-defunct [Collate tool](https://se-edu.githu
 * [Lee Jia Yee](https://github.com/issues?utf8=✓&q=repo%3Ase-edu%2Faddressbook-level1+repo%3Ase-edu%2Faddressbook-level2+repo%3Ase-edu%2Faddressbook-level3+repo%3Ase-edu%2Faddressbook-level4+involves%3Ajia1)
 * [Li Xiao Wei](https://github.com/issues?utf8=✓&q=repo%3Ase-edu%2Faddressbook-level1+repo%3Ase-edu%2Faddressbook-level2+repo%3Ase-edu%2Faddressbook-level3+repo%3Ase-edu%2Faddressbook-level4+involves%3ALiXiaoooowei)
 * [Lim Shun Xian](https://github.com/issues?utf8=✓&q=repo%3Ase-edu%2Faddressbook-level1+repo%3Ase-edu%2Faddressbook-level2+repo%3Ase-edu%2Faddressbook-level3+repo%3Ase-edu%2Faddressbook-level4+involves%3ACrsytral)
+* [LOW SIANG ERN](https://github.com/siangernlow)
 * [Louie Tan](https://github.com/issues?utf8=✓&q=repo%3Ase-edu%2Faddressbook-level1+repo%3Ase-edu%2Faddressbook-level2+repo%3Ase-edu%2Faddressbook-level3+repo%3Ase-edu%2Faddressbook-level4+involves%3Alouietyj)
 * [Nicholas Chua](https://github.com/issues?utf8=✓&q=repo%3Ase-edu%2Faddressbook-level1+repo%3Ase-edu%2Faddressbook-level2+repo%3Ase-edu%2Faddressbook-level3+repo%3Ase-edu%2Faddressbook-level4+involves%3Anicholaschuayunzhi)
 * [Sam Yong](https://github.com/issues?utf8=✓&q=repo%3Ase-edu%2Faddressbook-level1+repo%3Ase-edu%2Faddressbook-level2+repo%3Ase-edu%2Faddressbook-level3+repo%3Ase-edu%2Faddressbook-level4+involves%3Amauris)
 * [Shradheya Thakre](https://github.com/issues?utf8=✓&q=repo%3Ase-edu%2Faddressbook-level1+repo%3Ase-edu%2Faddressbook-level2+repo%3Ase-edu%2Faddressbook-level3+repo%3Ase-edu%2Faddressbook-level4+involves%3Atshradheya)
 * [Song Zhiwen](https://github.com/issues?utf8=✓&q=repo%3Ase-edu%2Faddressbook-level1+repo%3Ase-edu%2Faddressbook-level2+repo%3Ase-edu%2Faddressbook-level3+repo%3Ase-edu%2Faddressbook-level4+involves%3Azzzzwen)
+* [TAN YU LI, JAMES](https://github.com/iamjamestan)
 * [Thenaesh Elango](https://github.com/issues?utf8=✓&q=repo%3Ase-edu%2Faddressbook-level1+repo%3Ase-edu%2Faddressbook-level2+repo%3Ase-edu%2Faddressbook-level3+repo%3Ase-edu%2Faddressbook-level4+involves%3Athenaesh)
 * [Wang Riwu](https://github.com/issues?utf8=%E2%9C%93&q=repo%3Ase-edu%2Fcollate+involves%3Ariwu)
 * [Yong Lin Han](https://github.com/issues?utf8=✓&q=repo%3Ase-edu%2Faddressbook-level1+repo%3Ase-edu%2Faddressbook-level2+repo%3Ase-edu%2Faddressbook-level3+repo%3Ase-edu%2Faddressbook-level4+involves%3Alinhany)
