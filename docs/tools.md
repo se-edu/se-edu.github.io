@@ -36,7 +36,7 @@ TEAMMATES is a free online service for managing feedback paths in classes. A com
 
 ## {{ thumbnail(":fas-tools:") }} MarkBind
 
-MarkBind is a tool foe generating more dynamic websites from Markdown text. Optimized for creating text-heavy websites e.g., eLearning websites, online instruction manuals, project documentation etc.
+MarkBind is a tool for generating more dynamic websites from Markdown text. Optimized for creating text-heavy websites e.g., eLearning websites, online instruction manuals, project documentation etc.
 
 <pic src="https://markbind.org/images/logo-lightbackground.png"></pic>
 
