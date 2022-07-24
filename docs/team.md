@@ -35,11 +35,19 @@ Note that the following sub-projects (and sister projects) manage their own list
 
 -----------------------------------------------------------------------------------------------------
 
-#### [LIM WEI QUAN, ERNEST](https://github.com/ernestlim8)
+#### [KOU YONG KANG](https://github.com/kouyk)
 
-<img src="https://github.com/ernestlim8.png" width="100">
+<img src="https://github.com/kouyk.png" width="100">
 
-**Role**: Contributor [2021 Jan - ]
+**Role**: Developer [2022 July - ], Contributor [2021 Aug - 2022 Jun]
+
+-----------------------------------------------------------------------------------------------------
+
+#### [Tay Yi Hsuen](https://github.com/yhtMinceraft1010X )
+
+<img src="https://github.com/yhtMinceraft1010X.png" width="100">
+
+**Role**: Developer [2022 Jul - ], Contributor [2022 Jan - Jun]
 
 -----------------------------------------------------------------------------------------------------
 
@@ -58,20 +66,19 @@ Note that the following sub-projects (and sister projects) manage their own list
 
 -----------------------------------------------------------------------------------------------------
 
-#### [KINGSLEY KUAN JUN HAO](https://github.com/kingsleykuan)
+#### [Dinamuni Vimuth Pamuka Mendis](https://github.com/VimuthM)
 
-<img src="https://github.com/kingsleykuan.png" width="100">
+<img src="https://github.com/VimuthM.png" width="100">
 
-**Role**: Contributor [2021 Aug - ]
+**Role**: Contributor [2021 Jan - ]
 
 -----------------------------------------------------------------------------------------------------
 
-#### [KOU YONG KANG](https://github.com/kouyk)
+#### [LIM JUNXUE](https://github.com/LimJunxue)
 
-<img src="https://github.com/kouyk.png" width="100">
+<img src="https://github.com/LimJunxue.png" width="100">
 
-**Role**: Contributor [2021 Aug - ]
-
+**Role**: Contributor [2021 Jan - ]
 
 <!-- ==================================================================================================== -->
 
@@ -216,6 +223,14 @@ Area Lead for: UI [2016 Aug - 2017 May]
 
 -----------------------------------------------------------------------------------------------------
 
+#### [KINGSLEY KUAN JUN HAO](https://github.com/kingsleykuan)
+
+<img src="https://github.com/kingsleykuan.png" width="100">
+
+**Role**: Contributor [2021 Aug - Dec 2021]
+
+-----------------------------------------------------------------------------------------------------
+
 #### [Leow Yijin](https://github.com/yijinl)
 
 <img src="images/LeowYijin.jpg" width="100">
@@ -299,6 +314,7 @@ Wrote the initial version of the now-defunct [Collate tool](https://se-edu.githu
 * [Lee Jia Yee](https://github.com/jia1)
 * [Li Xiao Wei](https://github.com/LiXiaoooowei)
 * [Lim Shun Xian](https://github.com/Crsytral)
+* [LIM WEI QUAN, ERNEST](https://github.com/ernestlim8)
 * [LOW SIANG ERN](https://github.com/siangernlow)
 * [Louie Tan](https://github.com/louietyj)
 * [LUM JIAN YANG, SEAN](https://github.com/seanjyjy)
