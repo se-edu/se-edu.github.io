@@ -6,7 +6,7 @@
 {% from 'scripts/macros.njk' import thumbnail with context %}
 
 <header>
-<div class="jumbotron jumbotron-fluid text-center">
+<div class="jumbotron jumbotron-fluid text-center bg-light">
   <div class="container">
 
 ![](docs/images/logo.png)
