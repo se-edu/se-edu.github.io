@@ -35,14 +35,6 @@ Note that the following sub-projects (and sister projects) manage their own list
 
 -----------------------------------------------------------------------------------------------------
 
-#### [KOU YONG KANG](https://github.com/kouyk)
-
-<img src="https://github.com/kouyk.png" width="100">
-
-**Role**: Developer [2022 July - ], Contributor [2021 Aug - 2022 Jun]
-
------------------------------------------------------------------------------------------------------
-
 #### [Tay Yi Hsuen](https://github.com/yhtMinceraft1010X )
 
 <img src="https://github.com/yhtMinceraft1010X.png" width="100">
@@ -51,26 +43,11 @@ Note that the following sub-projects (and sister projects) manage their own list
 
 -----------------------------------------------------------------------------------------------------
 
-#### [Lim Jin Hao](https://github.com/JinHao-L)
+#### [Li Zhong Fu](https://github.com/zhongfu)
 
-<img src="https://github.com/JinHao-L.png" width="100">
+<img src="https://github.com/zhongfu.png" width="100">
 
-**Role**: Contributor [2021 Jan - ]
-
------------------------------------------------------------------------------------------------------
-#### [JOEL HO ENG KIAT](https://github.com/JoelHo)
-
-<img src="https://github.com/JoelHo.png" width="100">
-
-**Role**: Contributor [2021 Aug - ]
-
------------------------------------------------------------------------------------------------------
-
-#### [Dinamuni Vimuth Pamuka Mendis](https://github.com/VimuthM)
-
-<img src="https://github.com/VimuthM.png" width="100">
-
-**Role**: Contributor [2021 Jan - ]
+**Role**: Contributor [2022 Jul - ]
 
 -----------------------------------------------------------------------------------------------------
 
@@ -78,8 +55,25 @@ Note that the following sub-projects (and sister projects) manage their own list
 
 <img src="https://github.com/LimJunxue.png" width="100">
 
-**Role**: Contributor [2021 Jan - ]
+**Role**: Contributor [2022 Jul - ]
 
+-----------------------------------------------------------------------------------------------------
+
+#### [Lim Peiyuan](https://github.com/Py0000)
+
+<img src="https://github.com/Py0000.png" width="100">
+
+**Role**: Contributor [2022 Jul - ]
+
+-----------------------------------------------------------------------------------------------------
+
+#### [Sean Leong Shao Rong](https://github.com/seanleong339)
+
+<img src="https://github.com/seanleong339.png" width="100">
+
+**Role**: Contributor [2022 Jul - ]
+
+<!-- ==================================================================================================== -->
 <!-- ==================================================================================================== -->
 
 </div>
@@ -87,6 +81,37 @@ Note that the following sub-projects (and sister projects) manage their own list
 ## {{ thumbnail(":fas-users:") }} Past members
 
 <div class="ml-4">
+
+-----------------------------------------------------------------------------------------------------
+
+#### [KOU YONG KANG](https://github.com/kouyk)
+
+<img src="https://github.com/kouyk.png" width="100">
+
+**Role**: Contributor [2021 Aug - 2022 Jun]
+
+-----------------------------------------------------------------------------------------------------
+
+#### [Lim Jin Hao](https://github.com/JinHao-L)
+
+<img src="https://github.com/JinHao-L.png" width="100">
+
+**Role**: Contributor [2021 Jan - 2022 Jun]
+
+-----------------------------------------------------------------------------------------------------
+#### [JOEL HO ENG KIAT](https://github.com/JoelHo)
+
+<img src="https://github.com/JoelHo.png" width="100">
+
+**Role**: Contributor [2021 Aug - 2022 Jun]
+
+-----------------------------------------------------------------------------------------------------
+
+#### [Dinamuni Vimuth Pamuka Mendis](https://github.com/VimuthM)
+
+<img src="https://github.com/VimuthM.png" width="100">
+
+**Role**: Contributor [2021 Jan - 2022 Jun]
 
 -----------------------------------------------------------------------------------------------------
 
