@@ -2,25 +2,6 @@
   "enableSearch": true,
   "pages": [
     {
-      "src": "README.md",
-      "title": "",
-      "headings": {
-        "se-edu": "SE-EDU"
-      },
-      "headingKeywords": {}
-    },
-    {
-      "src": "docs/resources.md",
-      "title": "Learning resources",
-      "headings": {
-        "learning-resources": "Learning resources",
-        "software-engineering-for-self-directed-learners-book": " Software Engineering for Self-Directed Learners #book",
-        "tutorials-coding-standards-and-best-practices-collection": " Tutorials, coding standards, and best practices #collection",
-        "a-student-s-guide-to-software-engineering-tools-and-amp-techniques-collection": " A Student's Guide to Software Engineering Tools &amp; Techniques #collection"
-      },
-      "headingKeywords": {}
-    },
-    {
       "src": "docs/team.md",
       "title": "SE-EDU project Team",
       "headings": {
@@ -28,28 +9,6 @@
         "current-team": " Current team",
         "past-members": " Past members",
         "past-contributors": " Past contributors"
-      },
-      "headingKeywords": {}
-    },
-    {
-      "src": "docs/templates.md",
-      "title": "Project templates",
-      "headings": {
-        "project-templates": "Project templates",
-        "addressbook-level-3-ab3": " AddressBook Level 3 (AB3)",
-        "duke": " Duke",
-        "other-oss-projects": " Other OSS projects"
-      },
-      "headingKeywords": {}
-    },
-    {
-      "src": "docs/tools.md",
-      "title": "Tools for SE education",
-      "headings": {
-        "tools-for-se-education": "Tools for SE education",
-        "reposense": " RepoSense",
-        "teammates": " TEAMMATES",
-        "markbind": " MarkBind"
       },
       "headingKeywords": {}
     },
