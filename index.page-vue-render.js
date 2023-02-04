@@ -26,6 +26,6 @@ with(this){return _c('ul',[_c('li',[_c('a',{attrs:{"href":"https://www.github.co
 with(this){return _c('div',{staticClass:"ml-4"},[_c('p',[_v("To get in touch with us, post an issue "),_c('a',{attrs:{"href":"https://github.com/se-edu/main/issues"}},[_v("here")]),_v(" or email us at "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("seer [at] comp.nus.edu.sg")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("[Powered by "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(" on Sat, 4 Feb 2023, 23:18:22 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("[Powered by "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(" on Sat, 4 Feb 2023, 23:27:28 GMT+8]")])])])}
 }];
   
