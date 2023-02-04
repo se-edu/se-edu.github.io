@@ -35,25 +35,9 @@ Note that the following sub-projects (and sister projects) manage their own list
 
 -----------------------------------------------------------------------------------------------------
 
-#### [Tay Yi Hsuen](https://github.com/yhtMinceraft1010X )
-
-<img src="https://github.com/yhtMinceraft1010X.png" width="100">
-
-**Role**: Developer [2022 Jul - ], Contributor [2022 Jan - Jun]
-
------------------------------------------------------------------------------------------------------
-
 #### [Li Zhong Fu](https://github.com/zhongfu)
 
 <img src="https://github.com/zhongfu.png" width="100">
-
-**Role**: Contributor [2022 Jul - ]
-
------------------------------------------------------------------------------------------------------
-
-#### [LIM JUNXUE](https://github.com/LimJunxue)
-
-<img src="https://github.com/LimJunxue.png" width="100">
 
 **Role**: Contributor [2022 Jul - ]
 
@@ -81,6 +65,22 @@ Note that the following sub-projects (and sister projects) manage their own list
 ## {{ thumbnail(":fas-users:") }} Past members
 
 <div class="ml-4">
+
+-----------------------------------------------------------------------------------------------------
+
+#### [Tay Yi Hsuen](https://github.com/yhtMinceraft1010X )
+
+<img src="https://github.com/yhtMinceraft1010X.png" width="100">
+
+**Role**: Developer [2022 Jul - Dec], Contributor [2022 Jan - Jun]
+
+-----------------------------------------------------------------------------------------------------
+
+#### [LIM JUNXUE](https://github.com/LimJunxue)
+
+<img src="https://github.com/LimJunxue.png" width="100">
+
+**Role**: Contributor [2022 Jul - Dec]
 
 -----------------------------------------------------------------------------------------------------
 
