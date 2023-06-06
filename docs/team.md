@@ -27,7 +27,7 @@ Note that the following sub-projects (and sister projects) manage their own list
 
 <div class="ml-4">
 
-#### [Damith C. Rajapakse](http://www.comp.nus.edu.sg/~damithch)
+#### [Damith C. Rajapakse](http://www.comp.nus.edu.sg/~damithch) `@damithc`
 
 <img src="images/DamithRajapakse.jpg" width="100">
 
@@ -35,7 +35,15 @@ Note that the following sub-projects (and sister projects) manage their own list
 
 -----------------------------------------------------------------------------------------------------
 
-#### [Li Zhong Fu](https://github.com/zhongfu)
+#### [Li Zhaoqi](https://github.com/Eclipse-Dominator) `@Eclipse-Dominator`
+
+<img src="https://github.com/Eclipse-Dominator.png" width="100">
+
+**Role**: Developer [2023 May - ]
+
+-----------------------------------------------------------------------------------------------------
+
+#### [Li Zhong Fu](https://github.com/zhongfu) `@zhongfu`
 
 <img src="https://github.com/zhongfu.png" width="100">
 
@@ -43,7 +51,7 @@ Note that the following sub-projects (and sister projects) manage their own list
 
 -----------------------------------------------------------------------------------------------------
 
-#### [Lim Peiyuan](https://github.com/Py0000)
+#### [Lim Peiyuan](https://github.com/Py0000) `@Py0000`
 
 <img src="https://github.com/Py0000.png" width="100">
 
@@ -51,7 +59,7 @@ Note that the following sub-projects (and sister projects) manage their own list
 
 -----------------------------------------------------------------------------------------------------
 
-#### [Sean Leong Shao Rong](https://github.com/seanleong339)
+#### [Sean Leong Shao Rong](https://github.com/seanleong339) `@seanleong339`
 
 <img src="https://github.com/seanleong339.png" width="100">
 
