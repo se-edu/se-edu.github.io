@@ -32,6 +32,6 @@ with(this){return _c('small',[_c('span',{staticClass:"badge badge-pill badge-sec
 with(this){return _c('ul',[_c('li',[_v("This is a collection of articles introducing some tools and techniques relevant to SE student.")]),_v(" "),_c('li',[_v("Available at "),_c('strong',[_c('a',{attrs:{"href":"https://se-education.org/learningresources"}},[_v("https://se-education.org/learningresources")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("[Powered by "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(" on Sat, 4 Feb 2023, 23:27:28 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("[Powered by "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.1.0")]),_v(" on Wed, 7 Jun 2023, 1:06:27 GMT+8]")])])])}
 }];
   
