@@ -3,7 +3,6 @@
   "pages": [
     {
       "src": "README.md",
-      "title": "",
       "headings": {
         "se-edu": "SE-EDU"
       },
