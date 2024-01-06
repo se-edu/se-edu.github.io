@@ -43,27 +43,60 @@ Note that the following sub-projects (and sister projects) manage their own list
 
 -----------------------------------------------------------------------------------------------------
 
-#### [Li Zhong Fu](https://github.com/zhongfu) `@zhongfu`
+#### [CHIA YU HONG](https://github.com/chia-yh) `@chia-yh`
 
-<img src="https://github.com/zhongfu.png" width="100">
+<img src="https://github.com/chia-yh.png" width="100">
 
-**Role**: Contributor [2022 Jul - ]
-
------------------------------------------------------------------------------------------------------
-
-#### [Lim Peiyuan](https://github.com/Py0000) `@Py0000`
-
-<img src="https://github.com/Py0000.png" width="100">
-
-**Role**: Contributor [2022 Jul - ]
+**Role**: Contributor [2023 May - ]
 
 -----------------------------------------------------------------------------------------------------
 
-#### [Sean Leong Shao Rong](https://github.com/seanleong339) `@seanleong339`
+#### [CHINTHAKAYALA JYOTHIKA SIVA SAI](https://github.com/cjyothika) `@cjyothika`
 
-<img src="https://github.com/seanleong339.png" width="100">
+<img src="https://github.com/cjyothika.png" width="100">
 
-**Role**: Contributor [2022 Jul - ]
+**Role**: Contributor [2023 May - ]
+
+-----------------------------------------------------------------------------------------------------
+
+#### [HAN SHANGRU, STANLEY](https://github.com/hansstanley) `@hansstanley`
+
+<img src="https://github.com/hansstanley.png" width="100">
+
+**Role**: Contributor [2023 May - ]
+
+-----------------------------------------------------------------------------------------------------
+
+#### [Lim Yu Young, Douglas](https://github.com/dlimyy) `@dlimyy`
+
+<img src="https://github.com/dlimyy.png" width="100">
+
+**Role**: Contributor [2023 May - ]
+
+-----------------------------------------------------------------------------------------------------
+
+#### [TAN JUN DA](https://github.com/jundatan) `@jundatan`
+
+<img src="https://github.com/jundatan.png" width="100">
+
+**Role**: Contributor [2023 May - ]
+
+-----------------------------------------------------------------------------------------------------
+
+#### [TAN WEI SHWIN, LINUS](https://github.com/linustws) `@linustws`
+
+<img src="https://github.com/linustws.png" width="100">
+
+**Role**: Contributor [2023 May - ]
+
+-----------------------------------------------------------------------------------------------------
+
+#### [WEI WEN JIE](https://github.com/SPWwj) `@SPWwj`
+
+<img src="https://github.com/SPWwj.png" width="100">
+
+**Role**: Contributor [2023 May - ]
+
 
 <!-- ==================================================================================================== -->
 <!-- ==================================================================================================== -->
@@ -73,6 +106,28 @@ Note that the following sub-projects (and sister projects) manage their own list
 ## {{ thumbnail(":fas-users:") }} Past members
 
 <div class="ml-4">
+
+#### [Li Zhong Fu](https://github.com/zhongfu) `@zhongfu`
+
+<img src="https://github.com/zhongfu.png" width="100">
+
+**Role**: Contributor [2022 Jul - 2023 May]
+
+-----------------------------------------------------------------------------------------------------
+
+#### [Lim Peiyuan](https://github.com/Py0000) `@Py0000`
+
+<img src="https://github.com/Py0000.png" width="100">
+
+**Role**: Contributor [2022 Jul - 2023 May]
+
+-----------------------------------------------------------------------------------------------------
+
+#### [Sean Leong Shao Rong](https://github.com/seanleong339) `@seanleong339`
+
+<img src="https://github.com/seanleong339.png" width="100">
+
+**Role**: Contributor [2022 Jul - 2023 May]
 
 -----------------------------------------------------------------------------------------------------
 
